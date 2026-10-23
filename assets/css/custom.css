@@ -1,0 +1,18 @@
+/* BoardExamBD — tiny CSS niceties only.
+   All interactive behavior across the site is pure HTML+CSS (no JavaScript). */
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Thin, subtle scrollbars (nice for the wide routine tables on mobile) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(203 213 225) transparent;
+}
