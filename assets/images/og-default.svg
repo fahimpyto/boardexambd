@@ -1,0 +1,7 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#4F46E5"/>
+  <rect x="100" y="100" width="1000" height="430" rx="24" fill="white" fill-opacity="0.1"/>
+  <text x="600" y="280" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="64" fill="white">BoardExamBD</text>
+  <text x="600" y="360" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="28" fill="white" fill-opacity="0.9">SSC • HSC • Admission Notices</text>
+  <text x="600" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="20" fill="white" fill-opacity="0.7">Bangladesh Education Board Updates</text>
+</svg>

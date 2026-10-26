@@ -1,0 +1,52 @@
+# BoardExamBD
+
+> BoardExamBD publishes clear, source-linked guides to SSC, HSC and university admission notices, routines, results, form fill-up dates and admission tests in Bangladesh. Every guide links to the official board or university portal used for its facts.
+
+- Canonical site: https://boardexambd.com/
+- Language: English
+- Site last updated: 2026-10-26
+- Audience: SSC and HSC students, admission candidates, parents and teachers in Bangladesh
+- Editorial note: BoardExamBD is independent and is not affiliated with any education board or university. Always verify final dates and instructions with the official source.
+
+## Core pages
+
+- [Home](https://boardexambd.com/): Latest SSC, HSC and admission notices, routines, results and form fill-up dates.
+- [SSC hub](https://boardexambd.com/ssc.html): SSC routine, result, form fill-up and board challenge guides.
+- [HSC hub](https://boardexambd.com/hsc.html): HSC routine, result, practical exam and form fill-up guides.
+- [Admission hub](https://boardexambd.com/admission.html): DU, BUET, medical, GST, RU, RUET, KU and SUST admission dates.
+- [All guides](https://boardexambd.com/blog.html): Every BoardExamBD guide in one place.
+
+## SSC guides
+
+- [SSC 2026 Exam Routine — Full Schedule & Details](https://boardexambd.com/ssc-2026-routine.html): SSC 2026 exam routine with subject-wise dates, subject codes, 10:00 AM start time and official board instructions for all general boards. Markdown: [ssc-2026-routine.md](https://boardexambd.com/md/ssc-2026-routine.md)
+- [SSC Result 2026 — Date & How to Check Online & SMS](https://boardexambd.com/ssc-2026-result.html): SSC and Dakhil result 2026 was published on 10 August. Check your marksheet online, by SMS or at school with this step-by-step guide. Markdown: [ssc-2026-result.md](https://boardexambd.com/md/ssc-2026-result.md)
+- [SSC Form Fill-up 2027 — Dates & How to Apply](https://boardexambd.com/ssc-form-fillup-2027.html): SSC 2027 form fill-up runs through your institution. See the announced online window, fees, late fee rules and step-by-step process. Markdown: [ssc-form-fillup-2027.md](https://boardexambd.com/md/ssc-form-fillup-2027.md)
+- [SSC Board Challenge 2026 — Process, Fees & Result](https://boardexambd.com/ssc-board-challenge-2026.html): SSC board challenge 2026 applications ran 11–17 August by SMS, Tk 150 per paper, results on 10 September. See the full process and next cycle. Markdown: [ssc-board-challenge-2026.md](https://boardexambd.com/md/ssc-board-challenge-2026.md)
+
+## HSC guides
+
+- [HSC Routine 2026 — Exam Dates & Full Schedule](https://boardexambd.com/hsc-2026-routine.html): HSC 2026 routine with written exam dates from 2 July to 8 August, practical exams by 15 August, and exam times for all education boards. Markdown: [hsc-2026-routine.md](https://boardexambd.com/md/hsc-2026-routine.md)
+- [HSC Result 2026 — Date & How to Check Online/SMS](https://boardexambd.com/hsc-2026-result.html): HSC and Alim result 2026 is scheduled for 29 October. Check your marksheet online at eboardresults.com or by SMS with this simple guide. Markdown: [hsc-2026-result.md](https://boardexambd.com/md/hsc-2026-result.md)
+- [HSC Form Fill-up 2027 — Expected Dates & Process](https://boardexambd.com/hsc-form-fillup-2027.html): HSC form fill-up 2027 is expected around February–March. See how the college-based process works, the 2026 fees and what to prepare. Markdown: [hsc-form-fillup-2027.md](https://boardexambd.com/md/hsc-form-fillup-2027.md)
+- [HSC Practical Exams 2026 — Schedule, Rules & Marks](https://boardexambd.com/hsc-practical-2026.html): HSC 2026 practical exams were held at students' own institutions and completed by 15 August. See the schedule rules, marks and what to carry. Markdown: [hsc-practical-2026.md](https://boardexambd.com/md/hsc-practical-2026.md)
+
+## University admission guides
+
+- [BUET Admission 2026-27 — Application & Exam Date](https://boardexambd.com/buet-admission-2026-27.html): BUET admission 2026-27 preliminary test is set for 16 January 2027. See application dates, eligibility, the two-phase test and official portal links. Markdown: [buet-admission-2026-27.md](https://boardexambd.com/md/buet-admission-2026-27.md)
+- [DU A Unit Admission 2026-27 — Form Fill-up & Exam Date](https://boardexambd.com/du-a-unit-admission-2026-27.html): DU A Unit admission 2026-27 applications run 11–25 November, with unit tests from 5–26 December. See eligibility, form fill-up and exam details. Markdown: [du-a-unit-admission-2026-27.md](https://boardexambd.com/md/du-a-unit-admission-2026-27.md)
+- [GST Admission 2026-27 — A Unit Form Fill-up & Exam Date](https://boardexambd.com/gst-a-unit-admission-2026-27.html): GST university cluster admission 2026-27 A Unit form fill-up, one-hour MCQ pattern, eligibility and the latest circular updates from gstadmission.ac.bd. Markdown: [gst-a-unit-admission-2026-27.md](https://boardexambd.com/md/gst-a-unit-admission-2026-27.md)
+- [KU Admission 2026-27 — Application & Exam Date](https://boardexambd.com/ku-admission-2026-27.html): Khulna University admission 2026-27 applications closed on 30 September. See the test schedule, eligibility and next steps on ku.ac.bd. Markdown: [ku-admission-2026-27.md](https://boardexambd.com/md/ku-admission-2026-27.md)
+- [Medical (MBBS/BDS) Admission 2026-27 — Form Fill-up & Exam Date](https://boardexambd.com/medical-admission-2026-27.html): MBBS and BDS medical admission 2026-27: DGME form fill-up, tentative test date 4 December, eligibility and the one-hour MCQ exam format. Markdown: [medical-admission-2026-27.md](https://boardexambd.com/md/medical-admission-2026-27.md)
+- [Rajshahi University (RU) Admission 2026-27 — Dates & Process](https://boardexambd.com/ru-admission-2026-27.html): Rajshahi University admission 2026-27 applications open 12 November, with B, C and A unit tests in January 2027. See dates and eligibility. Markdown: [ru-admission-2026-27.md](https://boardexambd.com/md/ru-admission-2026-27.md)
+- [RUET Admission 2026-27 — Application & Exam Date](https://boardexambd.com/ruet-admission-2026-27.html): RUET admission 2026-27 circular is expected in late November. See the application portal, eligibility, last cycle dates and what to prepare. Markdown: [ruet-admission-2026-27.md](https://boardexambd.com/md/ruet-admission-2026-27.md)
+- [SUST Admission 2026-27 — Application & Exam Date](https://boardexambd.com/sust-admission-2026-27.html): SUST admission 2026-27 A and B unit tests, application window on admission.sust.edu.bd, eligibility and the latest circular updates. Markdown: [sust-admission-2026-27.md](https://boardexambd.com/md/sust-admission-2026-27.md)
+
+## Machine-readable files
+
+- [XML sitemap](https://boardexambd.com/sitemap.xml)
+- [Robots policy](https://boardexambd.com/robots.txt)
+
+## Optional
+
+- The HTML pages are canonical. The Markdown files mirror the guide body for AI tools and plain-text readers.
+- The shared Open Graph image is `/assets/images/og-default.jpg`.

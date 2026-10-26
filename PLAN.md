@@ -1,5 +1,7 @@
 # BoardExamBD — Project Plan
 
+> **Archived:** This is the original project plan, kept for historical context. It describes the early Play CDN and zero-build approach and is no longer the operating plan. See `README.md` for build and deployment instructions and `SEO_IMPLEMENTATION_PLAN.md` for the current SEO implementation.
+
 Static website for **SSC, HSC & University Admission** notices and routines in Bangladesh.
 Stack: plain HTML + Tailwind CSS. Simple, clean, scalable.
 

@@ -1,0 +1,49 @@
+{
+  "name": "BoardExamBD — SSC, HSC & Admission Guides",
+  "short_name": "BoardExamBD",
+  "description": "BoardExamBD publishes clear, verified guides to SSC, HSC and university admission notices, routines, results and form fill-up dates in Bangladesh.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "education",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "/assets/images/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/images/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "SSC guides",
+      "url": "/ssc.html"
+    },
+    {
+      "name": "HSC guides",
+      "url": "/hsc.html"
+    },
+    {
+      "name": "Admission tracker",
+      "url": "/admission.html"
+    },
+    {
+      "name": "All guides",
+      "url": "/blog.html"
+    }
+  ]
+}
