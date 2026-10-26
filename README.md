@@ -26,19 +26,20 @@ npm install
 python tools/build_site.py
 npm run build:css
 python tools/validate_site.py
+python tools/stage_site.py
 ```
 
-`npm run build` runs the site generator and CSS build together. Run `validate_site.py` afterwards.
+`npm run build` runs the site generator, CSS build and deployment staging together. Run `validate_site.py` afterwards.
 
-**Build order matters.** Generate the HTML first, then compile Tailwind, because Tailwind scans the generated `*.html` files for class names. Re-run the CSS build after any HTML or template change.
+**Build order matters.** Generate the HTML first, then compile Tailwind, because Tailwind scans the generated `*.html` files for class names. Re-run the CSS build after any HTML or template change. The staging step must run last so `dist/` receives the final CSS and HTML.
 
-Serve locally:
+Serve the source site locally:
 
 ```powershell
 npm run serve
 ```
 
-Then open <http://127.0.0.1:8080/>.
+Then open <http://127.0.0.1:8080/>. To preview the exact deployment bundle, run `npm run serve:dist` and open <http://127.0.0.1:8080/>.
 
 ## Project layout
 
@@ -51,7 +52,10 @@ Then open <http://127.0.0.1:8080/>.
 | `tools/site_components.py` | Shared head tags, structured data, header and footer. |
 | `tools/content_loader.py` | Reads preserved article bodies and writes Markdown versions. |
 | `tools/validate_site.py` | Local PASS/FAIL QA for pages, links, schema, assets and generated files. |
+| `tools/stage_site.py` | Copies only public files into `dist/` and enforces Cloudflare's size limits. |
 | `tools/make_tracker.py` | Builds the Excel tracker workbook. |
+| `worker.js` | Restores `/` as the homepage while keeping `.html` URLs unchanged. |
+| `wrangler.jsonc` | Cloudflare Workers configuration; serves `dist/` as static assets. |
 | `requirements.txt` | Pinned Python dependencies for the build and validator. |
 | `assets/css/input.css` | Tailwind source, including component classes. |
 | `assets/css/tailwind.css` | Compiled production stylesheet. |
@@ -60,8 +64,9 @@ Then open <http://127.0.0.1:8080/>.
 | `sitemap.xml` | 21 indexable URLs. |
 | `robots.txt` | Crawler policy and sitemap reference. |
 | `llms.txt` | Site-level index for AI tools, linking every guide and Markdown file. |
+| `dist/` | Generated deployment bundle. Not committed; rebuilt by `python tools/stage_site.py`. |
 | `SEO_Tracker.xlsx` | Page-by-page SEO status, issues and configuration notes. |
-| `SEO_TEMPLATE.html` | Internal `noindex` reference page. Not in the sitemap or tracker. |
+| `SEO_TEMPLATE.html` | Internal `noindex` reference page. Not in the sitemap, tracker or deployment bundle. |
 
 ## Editing content
 
@@ -118,7 +123,20 @@ The validator must pass before a tracker row is marked Done.
 
 ## Deployment
 
-Deploy the generated static files from the repository root. Keep the directory structure intact, especially `assets/`, `md/`, `sitemap.xml`, `robots.txt` and `llms.txt`.
+The site is deployed with Cloudflare Workers static assets. Only `dist/` is published; the repository root is never used as the asset directory.
+
+`python tools/stage_site.py` rebuilds `dist/` from the generated HTML, `assets/`, `md/`, `ssc-26-routine/`, `sitemap.xml`, `robots.txt` and `llms.txt`. It rejects files over Cloudflare's 25 MiB limit and bundles over 20,000 files.
+
+Cloudflare build settings:
+
+- **Build command:** `npm run build`
+- **Deploy command:** `npx wrangler deploy`
+- **Build output directory:** `dist`
+- **Root directory:** leave empty
+
+`wrangler.jsonc` sets `assets.directory` to `./dist`, disables Cloudflare's default `.html` redirects, serves `404.html` for missing pages, and routes `/` and `/index.html` through `worker.js` so the homepage stays at `/`. Keep `.html` in canonical URLs, sitemap entries and internal links; Cloudflare serves those paths unchanged.
+
+`.assetsignore` is a fallback that prevents dependencies, tooling and source PDFs from being uploaded if the project is ever pointed at the repository root.
 
 Configure the host to:
 
@@ -126,7 +144,7 @@ Configure the host to:
 - Use `404.html` as the custom not-found page.
 - Preserve HTTPS and serve `/sitemap.xml` and `/robots.txt` at the domain root.
 
-Live validation is still pending until `boardexambd.com` resolves and the site is deployed.
+Do not commit `dist/`; it is generated from the committed HTML and assets. Live validation is still pending until `boardexambd.com` resolves and the site is deployed.
 
 ## Pending before launch
 

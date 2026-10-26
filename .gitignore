@@ -4,6 +4,12 @@ __pycache__/
 *.py[cod]
 .venv/
 
+# Generated deployment output
+/dist/
+
+# Wrangler local state
+/.wrangler/
+
 # OS and editor noise
 .DS_Store
 Thumbs.db

@@ -1,0 +1,11 @@
+# Cloudflare deployment safety net.
+# The primary deployment uses dist/ via wrangler.jsonc. These rules keep a
+# root-directory fallback from uploading dependencies or internal files.
+/node_modules
+/.git
+/.wrangler
+/dist
+/tools
+/pdf
+/SEO_Tracker.xlsx
+/SEO_TEMPLATE.html
