@@ -1,7 +1,7 @@
 ---
 title: "BUET Admission 2026-27 — Application & Exam Date"
 description: "BUET admission 2026-27 preliminary test is set for 16 January 2027. See application dates, eligibility, the two-phase test and official portal links."
-url: "https://boardexambd.com/buet-admission-2026-27.html"
+url: "https://boardexambd.com/buet-admission-2026-27"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "Admission"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/buet-admission-2026-27.html"
+canonical: "https://boardexambd.com/buet-admission-2026-27"
 ---
 
 # BUET Admission 2026-27 — Application & Exam Date
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/buet-admission-2026-27.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/buet-admission-2026-27.html)
+[Read the formatted guide](https://boardexambd.com/buet-admission-2026-27)
 
 ## Key facts
 

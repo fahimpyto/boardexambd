@@ -57,18 +57,18 @@ HUB_FACTS = {
 
 HUB_TIMELINES = {
     "ssc": [
-        {"date": "15 Jan 2026", "iso": "2026-01-15", "title": "SSC 2026 routine issued", "text": "The nine general boards published the subject-wise routine with a 10:00 AM start for every paper.", "status": "Published", "href": "/ssc-2026-routine.html", "link_label": "See the full routine"},
-        {"date": "11 Apr 2026", "iso": "2026-04-11", "title": "Written exams began", "text": "Bangla 1st paper was the first SSC 2026 exam. Group papers continued through late April into early May.", "status": "Completed", "href": "/ssc-2026-routine.html", "link_label": "Review the schedule"},
-        {"date": "10 Aug 2026", "iso": "2026-08-10", "title": "SSC result published", "text": "SSC, Dakhil and Vocational results for all 11 boards went live at 10:00 AM.", "status": "Published", "href": "/ssc-2026-result.html", "link_label": "Check the result guide"},
-        {"date": "11–17 Aug 2026", "iso": "2026-08-11", "title": "Board challenge window", "text": "Re-scrutiny applications ran by SMS at Tk 150 per paper. Challenge results were published on 10 September 2026.", "status": "Closed", "href": "/ssc-board-challenge-2026.html", "link_label": "Read the board challenge guide"},
-        {"date": "16–23 Nov 2026", "iso": "2026-11-16", "title": "SSC 2027 form fill-up", "text": "The announced online window runs through schools with no late fee. The school submits candidate data to the board.", "status": "Upcoming", "href": "/ssc-form-fillup-2027.html", "link_label": "See the form fill-up process"},
+        {"date": "15 Jan 2026", "iso": "2026-01-15", "title": "SSC 2026 routine issued", "text": "The nine general boards published the subject-wise routine with a 10:00 AM start for every paper.", "status": "Published", "href": "/ssc-2026-routine", "link_label": "See the full routine"},
+        {"date": "11 Apr 2026", "iso": "2026-04-11", "title": "Written exams began", "text": "Bangla 1st paper was the first SSC 2026 exam. Group papers continued through late April into early May.", "status": "Completed", "href": "/ssc-2026-routine", "link_label": "Review the schedule"},
+        {"date": "10 Aug 2026", "iso": "2026-08-10", "title": "SSC result published", "text": "SSC, Dakhil and Vocational results for all 11 boards went live at 10:00 AM.", "status": "Published", "href": "/ssc-2026-result", "link_label": "Check the result guide"},
+        {"date": "11–17 Aug 2026", "iso": "2026-08-11", "title": "Board challenge window", "text": "Re-scrutiny applications ran by SMS at Tk 150 per paper. Challenge results were published on 10 September 2026.", "status": "Closed", "href": "/ssc-board-challenge-2026", "link_label": "Read the board challenge guide"},
+        {"date": "16–23 Nov 2026", "iso": "2026-11-16", "title": "SSC 2027 form fill-up", "text": "The announced online window runs through schools with no late fee. The school submits candidate data to the board.", "status": "Upcoming", "href": "/ssc-form-fillup-2027", "link_label": "See the form fill-up process"},
     ],
     "hsc": [
-        {"date": "2 Jul 2026", "iso": "2026-07-02", "title": "Written exams began", "text": "The HSC, Alim and equivalent exams started with Bangla 1st paper at 10:00 AM.", "status": "Completed", "href": "/hsc-2026-routine.html", "link_label": "See the full routine"},
-        {"date": "8 Aug 2026", "iso": "2026-08-08", "title": "Written exams ended", "text": "The last written paper closed a schedule that ran for around five weeks.", "status": "Completed", "href": "/hsc-2026-routine.html", "link_label": "Review the schedule"},
-        {"date": "15 Aug 2026", "iso": "2026-08-15", "title": "Practical exams completed", "text": "Lab-based and oral exams were completed at students' own institutions or assigned centres.", "status": "Completed", "href": "/hsc-practical-2026.html", "link_label": "Read the practical guide"},
-        {"date": "29 Oct 2026", "iso": "2026-10-29", "title": "HSC result scheduled", "text": "HSC, Alim and DIBS results are scheduled for Thursday 29 October 2026, according to the latest board notice.", "status": "Scheduled", "href": "/hsc-2026-result.html", "link_label": "Check the result guide"},
-        {"date": "Feb–Mar 2027", "title": "HSC 2027 form fill-up expected", "text": "No 2027 circular had been issued as of 23 October 2026. The window is expected around February–March, based on the last cycle.", "status": "Expected", "href": "/hsc-form-fillup-2027.html", "link_label": "See the expected process"},
+        {"date": "2 Jul 2026", "iso": "2026-07-02", "title": "Written exams began", "text": "The HSC, Alim and equivalent exams started with Bangla 1st paper at 10:00 AM.", "status": "Completed", "href": "/hsc-2026-routine", "link_label": "See the full routine"},
+        {"date": "8 Aug 2026", "iso": "2026-08-08", "title": "Written exams ended", "text": "The last written paper closed a schedule that ran for around five weeks.", "status": "Completed", "href": "/hsc-2026-routine", "link_label": "Review the schedule"},
+        {"date": "15 Aug 2026", "iso": "2026-08-15", "title": "Practical exams completed", "text": "Lab-based and oral exams were completed at students' own institutions or assigned centres.", "status": "Completed", "href": "/hsc-practical-2026", "link_label": "Read the practical guide"},
+        {"date": "29 Oct 2026", "iso": "2026-10-29", "title": "HSC result scheduled", "text": "HSC, Alim and DIBS results are scheduled for Thursday 29 October 2026, according to the latest board notice.", "status": "Scheduled", "href": "/hsc-2026-result", "link_label": "Check the result guide"},
+        {"date": "Feb–Mar 2027", "title": "HSC 2027 form fill-up expected", "text": "No 2027 circular had been issued as of 23 October 2026. The window is expected around February–March, based on the last cycle.", "status": "Expected", "href": "/hsc-form-fillup-2027", "link_label": "See the expected process"},
     ],
 }
 
@@ -96,29 +96,29 @@ HUB_OFFICIAL_LINKS = {
 }
 
 ADMISSION_ROWS = [
-    {"name": "DU A Unit", "status": "Upcoming", "date": "11–25 Nov 2026", "detail": "Applications open at 12:00 noon; unit tests are scheduled from 5 to 26 December 2026.", "href": "/du-a-unit-admission-2026-27.html"},
-    {"name": "Rajshahi University", "status": "Upcoming", "date": "From 12 Nov 2026", "detail": "Preliminary applications open on admission.ru.ac.bd; the announced tests are on 8, 9 and 16 January 2027.", "href": "/ru-admission-2026-27.html"},
-    {"name": "Medical (MBBS/BDS)", "status": "Tentative", "date": "4 Dec 2026", "detail": "Form fill-up is expected in mid-November; the test depends on the HSC result and the DGME circular.", "href": "/medical-admission-2026-27.html"},
-    {"name": "BUET", "status": "Scheduled", "date": "16 Jan 2027", "detail": "The preliminary test is set. Online applications are expected from mid-November to early December 2026.", "href": "/buet-admission-2026-27.html"},
-    {"name": "GST cluster", "status": "Pending", "date": "Circular pending", "detail": "No 2026-27 circular had been published as of 23 October 2026. Last cycle's A Unit science test was on 10 April 2026.", "href": "/gst-a-unit-admission-2026-27.html"},
-    {"name": "Khulna University", "status": "Closed", "date": "Closed 30 Sep 2026", "detail": "The application window has closed. The discipline-wise test schedule is still pending on ku.ac.bd.", "href": "/ku-admission-2026-27.html"},
-    {"name": "RUET", "status": "Expected", "date": "Circular late Nov–Dec 2026", "detail": "The test is expected around January 2027, following the previous cycle.", "href": "/ruet-admission-2026-27.html"},
-    {"name": "SUST", "status": "Expected", "date": "Circular late Oct–Nov 2026", "detail": "The A and B unit test is expected in December 2026. Last cycle it was held on 7 December 2025.", "href": "/sust-admission-2026-27.html"},
+    {"name": "DU A Unit", "status": "Upcoming", "date": "11–25 Nov 2026", "detail": "Applications open at 12:00 noon; unit tests are scheduled from 5 to 26 December 2026.", "href": "/du-a-unit-admission-2026-27"},
+    {"name": "Rajshahi University", "status": "Upcoming", "date": "From 12 Nov 2026", "detail": "Preliminary applications open on admission.ru.ac.bd; the announced tests are on 8, 9 and 16 January 2027.", "href": "/ru-admission-2026-27"},
+    {"name": "Medical (MBBS/BDS)", "status": "Tentative", "date": "4 Dec 2026", "detail": "Form fill-up is expected in mid-November; the test depends on the HSC result and the DGME circular.", "href": "/medical-admission-2026-27"},
+    {"name": "BUET", "status": "Scheduled", "date": "16 Jan 2027", "detail": "The preliminary test is set. Online applications are expected from mid-November to early December 2026.", "href": "/buet-admission-2026-27"},
+    {"name": "GST cluster", "status": "Pending", "date": "Circular pending", "detail": "No 2026-27 circular had been published as of 23 October 2026. Last cycle's A Unit science test was on 10 April 2026.", "href": "/gst-a-unit-admission-2026-27"},
+    {"name": "Khulna University", "status": "Closed", "date": "Closed 30 Sep 2026", "detail": "The application window has closed. The discipline-wise test schedule is still pending on ku.ac.bd.", "href": "/ku-admission-2026-27"},
+    {"name": "RUET", "status": "Expected", "date": "Circular late Nov–Dec 2026", "detail": "The test is expected around January 2027, following the previous cycle.", "href": "/ruet-admission-2026-27"},
+    {"name": "SUST", "status": "Expected", "date": "Circular late Oct–Nov 2026", "detail": "The A and B unit test is expected in December 2026. Last cycle it was held on 7 December 2025.", "href": "/sust-admission-2026-27"},
 ]
 
 HOME_DATES = [
-    {"day": "29", "month": "Oct", "title": "HSC Result 2026", "note": "Scheduled — all 11 boards", "href": "/hsc-2026-result.html"},
-    {"day": "11", "month": "Nov", "title": "DU A Unit applications", "note": "Open at 12:00 noon", "href": "/du-a-unit-admission-2026-27.html"},
-    {"day": "16", "month": "Nov", "title": "SSC 2027 form fill-up", "note": "Window opens through schools", "href": "/ssc-form-fillup-2027.html"},
+    {"day": "29", "month": "Oct", "title": "HSC Result 2026", "note": "Scheduled — all 11 boards", "href": "/hsc-2026-result"},
+    {"day": "11", "month": "Nov", "title": "DU A Unit applications", "note": "Open at 12:00 noon", "href": "/du-a-unit-admission-2026-27"},
+    {"day": "16", "month": "Nov", "title": "SSC 2027 form fill-up", "note": "Window opens through schools", "href": "/ssc-form-fillup-2027"},
 ]
 
 HOME_TIMELINE = [
-    {"date": "29 Oct 2026", "iso": "2026-10-29", "title": "HSC result 2026", "text": "HSC, Alim and DIBS results are scheduled for Thursday 29 October 2026, according to the latest board notice.", "status": "Scheduled", "href": "/hsc-2026-result.html", "link_label": "How to check the result"},
-    {"date": "11 Nov 2026", "iso": "2026-11-11", "title": "DU A Unit applications open", "text": "Apply from 12:00 noon on 11 November until 11:59 PM on 25 November 2026. All DU unit tests are planned for 5–26 December.", "status": "Upcoming", "href": "/du-a-unit-admission-2026-27.html", "link_label": "See eligibility and steps"},
-    {"date": "16 Nov 2026", "iso": "2026-11-16", "title": "SSC 2027 form fill-up opens", "text": "The announced online window runs 16–23 November 2026 with no late fee. Your school submits the candidate data to the board.", "status": "Upcoming", "href": "/ssc-form-fillup-2027.html", "link_label": "Read the form fill-up guide"},
-    {"date": "4 Dec 2026", "iso": "2026-12-04", "title": "Medical admission test", "text": "The MBBS/BDS admission test is tentatively set for 4 December 2026. The date depends on the HSC result and the DGME circular.", "status": "Tentative", "href": "/medical-admission-2026-27.html", "link_label": "See the medical guide"},
-    {"date": "16 Jan 2027", "iso": "2027-01-16", "title": "BUET preliminary test", "text": "BUET's preliminary admission test is set for 16 January 2027. The full application circular is still pending.", "status": "Scheduled", "href": "/buet-admission-2026-27.html", "link_label": "Read the BUET guide"},
-    {"date": "Feb–Mar 2027", "title": "HSC 2027 form fill-up", "text": "No 2027 circular had been issued as of 23 October 2026. The window is expected around February–March, based on the 2026 cycle.", "status": "Expected", "href": "/hsc-form-fillup-2027.html", "link_label": "See the expected process"},
+    {"date": "29 Oct 2026", "iso": "2026-10-29", "title": "HSC result 2026", "text": "HSC, Alim and DIBS results are scheduled for Thursday 29 October 2026, according to the latest board notice.", "status": "Scheduled", "href": "/hsc-2026-result", "link_label": "How to check the result"},
+    {"date": "11 Nov 2026", "iso": "2026-11-11", "title": "DU A Unit applications open", "text": "Apply from 12:00 noon on 11 November until 11:59 PM on 25 November 2026. All DU unit tests are planned for 5–26 December.", "status": "Upcoming", "href": "/du-a-unit-admission-2026-27", "link_label": "See eligibility and steps"},
+    {"date": "16 Nov 2026", "iso": "2026-11-16", "title": "SSC 2027 form fill-up opens", "text": "The announced online window runs 16–23 November 2026 with no late fee. Your school submits the candidate data to the board.", "status": "Upcoming", "href": "/ssc-form-fillup-2027", "link_label": "Read the form fill-up guide"},
+    {"date": "4 Dec 2026", "iso": "2026-12-04", "title": "Medical admission test", "text": "The MBBS/BDS admission test is tentatively set for 4 December 2026. The date depends on the HSC result and the DGME circular.", "status": "Tentative", "href": "/medical-admission-2026-27", "link_label": "See the medical guide"},
+    {"date": "16 Jan 2027", "iso": "2027-01-16", "title": "BUET preliminary test", "text": "BUET's preliminary admission test is set for 16 January 2027. The full application circular is still pending.", "status": "Scheduled", "href": "/buet-admission-2026-27", "link_label": "Read the BUET guide"},
+    {"date": "Feb–Mar 2027", "title": "HSC 2027 form fill-up", "text": "No 2027 circular had been issued as of 23 October 2026. The window is expected around February–March, based on the 2026 cycle.", "status": "Expected", "href": "/hsc-form-fillup-2027", "link_label": "See the expected process"},
 ]
 
 FEATURED_SLUGS = [
@@ -180,7 +180,7 @@ def render_hub_page(hub: dict) -> str:
       <h2 class="text-2xl font-extrabold tracking-tight text-slate-900">Admission tracker</h2>
       <p class="mt-2 text-sm text-slate-500">Status reflects the notices reviewed on 23 October 2026.</p>
     </div>
-    <a href="/blog.html" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">All guides <span aria-hidden="true">&rarr;</span></a>
+    <a href="/blog" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">All guides <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="mt-5 overflow-x-auto rounded-2xl border border-slate-200 bg-white shadow-sm">
     <table class="min-w-full divide-y divide-slate-200 text-left">
@@ -245,7 +245,7 @@ def render_hub_page(hub: dict) -> str:
         <h2 class="text-2xl font-extrabold tracking-tight text-slate-900">Guides in this section</h2>
         <p class="mt-2 text-sm text-slate-500">Each guide links to the official portal used for its dates and instructions.</p>
       </div>
-      <a href="/blog.html" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">View all guides <span aria-hidden="true">&rarr;</span></a>
+      <a href="/blog" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">View all guides <span aria-hidden="true">&rarr;</span></a>
     </div>
     {_article_grid(articles)}
   </section>
@@ -343,7 +343,7 @@ def _home_category_card(hub: dict) -> str:
         "Admission": "DU, BUET, medical, GST, RU, RUET, KU and SUST dates in one place.",
     }
     links = "".join(
-        f'<li><a href="/{article["file"]}" class="text-sm font-medium text-slate-600 hover:text-indigo-700">{e(card_title(article))}</a></li>'
+        f'<li><a href="{article["path"]}" class="text-sm font-medium text-slate-600 hover:text-indigo-700">{e(card_title(article))}</a></li>'
         for article in articles[:2]
     )
     return f"""
@@ -353,11 +353,11 @@ def _home_category_card(hub: dict) -> str:
     <span class="text-xs font-semibold text-slate-500">{len(articles)} guides</span>
   </div>
   <h3 class="mt-4 text-xl font-extrabold text-slate-900">
-    <a href="/{hub['file']}" class="transition group-hover:text-indigo-700">{e(hub['h1'])}</a>
+    <a href="{hub['path']}" class="transition group-hover:text-indigo-700">{e(hub['h1'])}</a>
   </h3>
   <p class="mt-2 text-sm leading-6 text-slate-600">{descriptions[hub['cluster']]}</p>
   <ul class="mt-4 space-y-2 border-t border-slate-100 pt-4">{links}</ul>
-  <a href="/{hub['file']}" class="mt-auto inline-flex items-center gap-1 pt-4 text-sm font-semibold {style['text']}">Browse {hub['cluster']} <span aria-hidden="true">&rarr;</span></a>
+  <a href="{hub['path']}" class="mt-auto inline-flex items-center gap-1 pt-4 text-sm font-semibold {style['text']}">Browse {hub['cluster']} <span aria-hidden="true">&rarr;</span></a>
 </div>"""
 
 
@@ -392,7 +392,7 @@ def render_home_page() -> str:
         <h1 class="mt-5 max-w-3xl text-4xl font-extrabold leading-[1.08] tracking-tight text-slate-950 sm:text-5xl lg:text-6xl">{e(HOME['h1'])}</h1>
         <p class="mt-5 max-w-2xl text-base leading-7 text-slate-600 sm:text-lg">Clear, source-linked guides to exam routines, results, form fill-up and university admission dates — built for students and parents in Bangladesh.</p>
         <div class="mt-7 flex flex-wrap gap-3">
-          <a href="/blog.html" class="btn-primary">Browse all guides <span aria-hidden="true">&rarr;</span></a>
+          <a href="/blog" class="btn-primary">Browse all guides <span aria-hidden="true">&rarr;</span></a>
           <a href="#dates" class="btn-secondary">See upcoming dates</a>
         </div>
         <div class="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-500">
@@ -420,7 +420,7 @@ def render_home_page() -> str:
       <p class="eyebrow">Start here</p>
       <h2 class="mt-2 text-2xl font-extrabold tracking-tight text-slate-900 sm:text-3xl">Browse by exam</h2>
     </div>
-    <a href="/blog.html" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">All 16 guides <span aria-hidden="true">&rarr;</span></a>
+    <a href="/blog" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">All 16 guides <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="mt-6 grid gap-5 lg:grid-cols-3">{category_cards}</div>
 </section>
@@ -442,7 +442,7 @@ def render_home_page() -> str:
       <p class="eyebrow">Featured</p>
       <h2 class="mt-2 text-2xl font-extrabold tracking-tight text-slate-900 sm:text-3xl">Guides students need now</h2>
     </div>
-    <a href="/blog.html" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">See every guide <span aria-hidden="true">&rarr;</span></a>
+    <a href="/blog" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">See every guide <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{featured_cards}</div>
 </section>
@@ -478,8 +478,8 @@ def render_home_page() -> str:
       <p class="mt-3 text-sm leading-6 text-indigo-100">Browse SSC, HSC and admission guides by exam, with official links on every page.</p>
     </div>
     <div class="mt-6 flex flex-wrap gap-3">
-      <a href="/blog.html" class="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-4 py-2.5 text-sm font-semibold text-indigo-700 shadow-sm transition hover:bg-indigo-50">Open the guide hub <span aria-hidden="true">&rarr;</span></a>
-      <a href="/admission.html" class="inline-flex items-center justify-center gap-2 rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-white/10">Admission tracker</a>
+      <a href="/blog" class="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-4 py-2.5 text-sm font-semibold text-indigo-700 shadow-sm transition hover:bg-indigo-50">Open the guide hub <span aria-hidden="true">&rarr;</span></a>
+      <a href="/admission" class="inline-flex items-center justify-center gap-2 rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-white/10">Admission tracker</a>
     </div>
   </div>
 </section>"""
@@ -497,17 +497,17 @@ def render_404_page() -> str:
     <p class="mx-auto mt-4 max-w-xl text-base leading-7 text-slate-600">The page you requested could not be found. It may have moved, or the link may be out of date.</p>
     <div class="mt-7 flex flex-wrap justify-center gap-3">
       <a href="/" class="btn-primary">Go to the homepage</a>
-      <a href="/blog.html" class="btn-secondary">Browse all guides</a>
+      <a href="/blog" class="btn-secondary">Browse all guides</a>
     </div>
   </div>
 </section>
 <div class="site-container py-12">
   <h2 class="text-lg font-bold text-slate-900">Popular sections</h2>
   <div class="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-    <a href="/ssc.html" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-sky-50 text-sky-700 ring-sky-600/20">SSC</span><p class="mt-3 font-semibold text-slate-900">SSC notices &amp; routine</p><p class="mt-1 text-sm text-slate-500">Routine, result and form fill-up.</p></a>
-    <a href="/hsc.html" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-violet-50 text-violet-700 ring-violet-600/20">HSC</span><p class="mt-3 font-semibold text-slate-900">HSC notices &amp; routine</p><p class="mt-1 text-sm text-slate-500">Exam dates, practicals and result.</p></a>
-    <a href="/admission.html" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-emerald-50 text-emerald-700 ring-emerald-600/20">Admission</span><p class="mt-3 font-semibold text-slate-900">University admission</p><p class="mt-1 text-sm text-slate-500">DU, BUET, medical and more.</p></a>
-    <a href="/blog.html" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-indigo-50 text-indigo-700 ring-indigo-600/20">Blog</span><p class="mt-3 font-semibold text-slate-900">All guides</p><p class="mt-1 text-sm text-slate-500">Every BoardExamBD guide in one place.</p></a>
+    <a href="/ssc" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-sky-50 text-sky-700 ring-sky-600/20">SSC</span><p class="mt-3 font-semibold text-slate-900">SSC notices &amp; routine</p><p class="mt-1 text-sm text-slate-500">Routine, result and form fill-up.</p></a>
+    <a href="/hsc" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-violet-50 text-violet-700 ring-violet-600/20">HSC</span><p class="mt-3 font-semibold text-slate-900">HSC notices &amp; routine</p><p class="mt-1 text-sm text-slate-500">Exam dates, practicals and result.</p></a>
+    <a href="/admission" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-emerald-50 text-emerald-700 ring-emerald-600/20">Admission</span><p class="mt-3 font-semibold text-slate-900">University admission</p><p class="mt-1 text-sm text-slate-500">DU, BUET, medical and more.</p></a>
+    <a href="/blog" class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:border-indigo-200 hover:shadow-soft"><span class="badge bg-indigo-50 text-indigo-700 ring-indigo-600/20">Blog</span><p class="mt-3 font-semibold text-slate-900">All guides</p><p class="mt-1 text-sm text-slate-500">Every BoardExamBD guide in one place.</p></a>
   </div>
 </div>"""
     return render_document(NOT_FOUND, None, main, graph, og_type="website")

@@ -31,19 +31,19 @@
   "shortcuts": [
     {
       "name": "SSC guides",
-      "url": "/ssc.html"
+      "url": "/ssc"
     },
     {
       "name": "HSC guides",
-      "url": "/hsc.html"
+      "url": "/hsc"
     },
     {
       "name": "Admission tracker",
-      "url": "/admission.html"
+      "url": "/admission"
     },
     {
       "name": "All guides",
-      "url": "/blog.html"
+      "url": "/blog"
     }
   ]
 }

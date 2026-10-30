@@ -111,21 +111,28 @@ def check_links(soup: BeautifulSoup, page: dict) -> None:
             if value.startswith(("#", "mailto:", "tel:", "data:", "javascript:")):
                 continue
             parsed = urlparse(value)
+            is_internal = parsed.scheme not in ("http", "https") or value.startswith(DOMAIN)
             if parsed.scheme in ("http", "https"):
                 if not value.startswith(DOMAIN):
                     continue
                 path = parsed.path
             else:
                 path = parsed.path
+            if is_internal and path.endswith(".html"):
+                fail(f"{page['file']}: internal link still uses .html {value!r}")
             if not path or path == "/":
-                target = ROOT / "index.html"
+                base = ROOT / "index.html"
+                candidates = [base]
             elif path.startswith("/"):
-                target = ROOT / unquote(path.lstrip("/"))
+                base = ROOT / unquote(path.lstrip("/"))
+                candidates = [base]
             else:
-                target = (ROOT / page["file"]).parent / unquote(path)
-            if target.suffix == "" and target.is_dir():
-                target = target / "index.html"
-            if not target.exists():
+                base = (ROOT / page["file"]).parent / unquote(path)
+                candidates = [base]
+            if base.suffix == "":
+                candidates.append(base.with_name(base.name + ".html"))
+                candidates.append(base / "index.html")
+            if not any(candidate.exists() for candidate in candidates):
                 fail(f"{page['file']}: broken internal reference {value!r}")
             checked += 1
     if checked < 10:
@@ -307,6 +314,8 @@ def check_sitemap() -> None:
         fail(f"sitemap.xml: expected 21 URLs, found {len(locs)}")
     if len(locs) != len(set(locs)):
         fail("sitemap.xml: duplicate URLs")
+    if any(loc.endswith(".html") for loc in locs):
+        fail("sitemap.xml: contains .html URLs")
     if set(locs) != set(expected):
         missing = sorted(set(expected) - set(locs))
         extra = sorted(set(locs) - set(expected))
@@ -373,7 +382,7 @@ def check_assets() -> None:
 
 def check_robots_and_ai() -> None:
     robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
-    for needle in ("Sitemap: https://boardexambd.com/sitemap.xml", "Disallow: /404.html", "Disallow: /SEO_TEMPLATE.html"):
+    for needle in ("Sitemap: https://boardexambd.com/sitemap.xml", "Disallow: /404", "Disallow: /SEO_TEMPLATE"):
         if needle not in robots:
             fail(f"robots.txt missing {needle!r}")
     if re.search(r"User-agent: \*\s*\nDisallow: /\s*$", robots, re.MULTILINE):

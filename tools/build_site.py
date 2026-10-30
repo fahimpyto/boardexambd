@@ -13,7 +13,7 @@ from seo_config import ALL_INDEXABLE, ARTICLES, BLOG, HOME, HUBS, NOT_FOUND, SIT
 
 ROOT = Path(__file__).resolve().parent.parent
 DOMAIN = SITE["domain"]
-DATE = "2026-10-26"
+DATE = "2026-10-30"
 
 
 def write(path: str, content: str) -> None:
@@ -64,8 +64,8 @@ def build_robots() -> str:
 
 User-agent: *
 Allow: /
-Disallow: /404.html
-Disallow: /SEO_TEMPLATE.html
+Disallow: /404
+Disallow: /SEO_TEMPLATE
 
 {ai_rules}
 
@@ -88,10 +88,10 @@ def build_llms() -> str:
         "## Core pages",
         "",
         f"- [Home]({DOMAIN}/): Latest SSC, HSC and admission notices, routines, results and form fill-up dates.",
-        f"- [SSC hub]({DOMAIN}/ssc.html): SSC routine, result, form fill-up and board challenge guides.",
-        f"- [HSC hub]({DOMAIN}/hsc.html): HSC routine, result, practical exam and form fill-up guides.",
-        f"- [Admission hub]({DOMAIN}/admission.html): DU, BUET, medical, GST, RU, RUET, KU and SUST admission dates.",
-        f"- [All guides]({DOMAIN}/blog.html): Every BoardExamBD guide in one place.",
+        f"- [SSC hub]({DOMAIN}/ssc): SSC routine, result, form fill-up and board challenge guides.",
+        f"- [HSC hub]({DOMAIN}/hsc): HSC routine, result, practical exam and form fill-up guides.",
+        f"- [Admission hub]({DOMAIN}/admission): DU, BUET, medical, GST, RU, RUET, KU and SUST admission dates.",
+        f"- [All guides]({DOMAIN}/blog): Every BoardExamBD guide in one place.",
         "",
         "## SSC guides",
         "",
@@ -138,7 +138,7 @@ def build_template() -> str:
   <title>SEO Template (Noindex) | BoardExamBD</title>
   <meta name="description" content="Internal SEO reference template for BoardExamBD. This page is not part of the public site.">
   <meta name="robots" content="noindex, nofollow, noarchive">
-  <link rel="canonical" href="{DOMAIN}/SEO_TEMPLATE.html">
+  <link rel="canonical" href="{DOMAIN}/SEO_TEMPLATE">
   <link rel="icon" href="/assets/images/favicon.ico" sizes="any">
   <link rel="stylesheet" href="/assets/css/tailwind.css">
 </head>
@@ -183,10 +183,10 @@ def build_manifest() -> dict:
             },
         ],
         "shortcuts": [
-            {"name": "SSC guides", "url": "/ssc.html"},
-            {"name": "HSC guides", "url": "/hsc.html"},
-            {"name": "Admission tracker", "url": "/admission.html"},
-            {"name": "All guides", "url": "/blog.html"},
+            {"name": "SSC guides", "url": "/ssc"},
+            {"name": "HSC guides", "url": "/hsc"},
+            {"name": "Admission tracker", "url": "/admission"},
+            {"name": "All guides", "url": "/blog"},
         ],
     }
 

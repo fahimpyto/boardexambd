@@ -95,6 +95,10 @@
     @apply font-semibold text-indigo-600 underline decoration-indigo-200 decoration-2 underline-offset-2 hover:text-indigo-800 hover:decoration-indigo-400;
   }
 
+  .article-body a.btn-primary {
+    @apply text-white no-underline hover:text-white;
+  }
+
   .article-body strong {
     @apply font-semibold text-slate-900;
   }

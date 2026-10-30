@@ -1,7 +1,7 @@
 ---
 title: "Rajshahi University (RU) Admission 2026-27 — Dates & Process"
 description: "Rajshahi University admission 2026-27 applications open 12 November, with B, C and A unit tests in January 2027. See dates and eligibility."
-url: "https://boardexambd.com/ru-admission-2026-27.html"
+url: "https://boardexambd.com/ru-admission-2026-27"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "Admission"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/ru-admission-2026-27.html"
+canonical: "https://boardexambd.com/ru-admission-2026-27"
 ---
 
 # Rajshahi University (RU) Admission 2026-27 — Dates & Process
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/ru-admission-2026-27.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/ru-admission-2026-27.html)
+[Read the formatted guide](https://boardexambd.com/ru-admission-2026-27)
 
 ## Key facts
 

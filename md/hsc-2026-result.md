@@ -1,7 +1,7 @@
 ---
 title: "HSC Result 2026 — Date & How to Check Online/SMS"
 description: "HSC and Alim result 2026 is scheduled for 29 October. Check your marksheet online at eboardresults.com or by SMS with this simple guide."
-url: "https://boardexambd.com/hsc-2026-result.html"
+url: "https://boardexambd.com/hsc-2026-result"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "HSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/hsc-2026-result.html"
+canonical: "https://boardexambd.com/hsc-2026-result"
 ---
 
 # HSC Result 2026 — Date & How to Check Online/SMS
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/hsc-2026-result.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/hsc-2026-result.html)
+[Read the formatted guide](https://boardexambd.com/hsc-2026-result)
 
 ## Key facts
 

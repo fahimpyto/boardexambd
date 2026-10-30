@@ -33,7 +33,7 @@ python tools/stage_site.py
 
 **Build order matters.** Generate the HTML first, then compile Tailwind, because Tailwind scans the generated `*.html` files for class names. Re-run the CSS build after any HTML or template change. The staging step must run last so `dist/` receives the final CSS and HTML.
 
-Serve the source site locally:
+Serve the source site locally with the same extensionless URLs as production:
 
 ```powershell
 npm run serve
@@ -53,8 +53,9 @@ Then open <http://127.0.0.1:8080/>. To preview the exact deployment bundle, run 
 | `tools/content_loader.py` | Reads preserved article bodies and writes Markdown versions. |
 | `tools/validate_site.py` | Local PASS/FAIL QA for pages, links, schema, assets and generated files. |
 | `tools/stage_site.py` | Copies only public files into `dist/` and enforces Cloudflare's size limits. |
+| `tools/serve_site.py` | Local preview server that maps extensionless URLs to the generated `.html` files. |
 | `tools/make_tracker.py` | Builds the Excel tracker workbook. |
-| `worker.js` | Restores `/` as the homepage while keeping `.html` URLs unchanged. |
+| `worker.js` | Redirects legacy `.html` and trailing-slash URLs to the extensionless canonical paths. |
 | `wrangler.jsonc` | Cloudflare Workers configuration; serves `dist/` as static assets. |
 | `requirements.txt` | Pinned Python dependencies for the build and validator. |
 | `assets/css/input.css` | Tailwind source, including component classes. |
@@ -93,7 +94,7 @@ Articles also include a hero, meta row, table of contents, key facts, quick chec
 Generated crawler files:
 
 - `sitemap.xml`: all 21 indexable URLs.
-- `robots.txt`: allows search and AI crawlers, disallows `404.html` and `SEO_TEMPLATE.html`.
+- `robots.txt`: allows search and AI crawlers, disallows `/404` and `/SEO_TEMPLATE`.
 - `llms.txt`: site summary, core pages, every guide and its Markdown mirror.
 
 ## QA
@@ -134,7 +135,7 @@ Cloudflare build settings:
 - **Build output directory:** `dist`
 - **Root directory:** leave empty
 
-`wrangler.jsonc` sets `assets.directory` to `./dist`, disables Cloudflare's default `.html` redirects, serves `404.html` for missing pages, and routes `/` and `/index.html` through `worker.js` so the homepage stays at `/`. Keep `.html` in canonical URLs, sitemap entries and internal links; Cloudflare serves those paths unchanged.
+`wrangler.jsonc` sets `assets.directory` to `./dist` and enables Cloudflare's `drop-trailing-slash` HTML handling, so `/blog` serves `blog.html` and missing pages return `404.html`. `worker.js` runs first for `.html` and trailing-slash requests and permanently redirects them to the extensionless URL. Canonical URLs, sitemap entries and internal links are all extensionless.
 
 `.assetsignore` is a fallback that prevents dependencies, tooling and source PDFs from being uploaded if the project is ever pointed at the repository root.
 

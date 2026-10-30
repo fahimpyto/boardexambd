@@ -1,7 +1,7 @@
 ---
 title: "SSC Result 2026 — Date & How to Check Online & SMS"
 description: "SSC and Dakhil result 2026 was published on 10 August. Check your marksheet online, by SMS or at school with this step-by-step guide."
-url: "https://boardexambd.com/ssc-2026-result.html"
+url: "https://boardexambd.com/ssc-2026-result"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "SSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/ssc-2026-result.html"
+canonical: "https://boardexambd.com/ssc-2026-result"
 ---
 
 # SSC Result 2026 — Date & How to Check Online & SMS
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/ssc-2026-result.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
 
-[Read the formatted guide](https://boardexambd.com/ssc-2026-result.html)
+[Read the formatted guide](https://boardexambd.com/ssc-2026-result)
 
 ## Key facts
 

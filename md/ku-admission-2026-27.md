@@ -1,7 +1,7 @@
 ---
 title: "KU Admission 2026-27 — Application & Exam Date"
 description: "Khulna University admission 2026-27 applications closed on 30 September. See the test schedule, eligibility and next steps on ku.ac.bd."
-url: "https://boardexambd.com/ku-admission-2026-27.html"
+url: "https://boardexambd.com/ku-admission-2026-27"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "Admission"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/ku-admission-2026-27.html"
+canonical: "https://boardexambd.com/ku-admission-2026-27"
 ---
 
 # KU Admission 2026-27 — Application & Exam Date
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/ku-admission-2026-27.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/ku-admission-2026-27.html)
+[Read the formatted guide](https://boardexambd.com/ku-admission-2026-27)
 
 ## Key facts
 

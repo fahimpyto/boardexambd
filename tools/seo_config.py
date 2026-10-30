@@ -4,6 +4,13 @@ Everything that changes per page lives here: metadata, FAQs, related links,
 sources and review dates. HTML pages are generated/updated from this file.
 """
 
+def page_path(file_name: str) -> str:
+    """Return the public URL path for a generated HTML file."""
+    if file_name == "index.html":
+        return "/"
+    return "/" + file_name.removesuffix(".html")
+
+
 SITE = {
     "name": "BoardExamBD",
     "legal_name": "BoardExamBD",
@@ -47,7 +54,7 @@ BLOG = {
     "slug": "blog",
     "type": "Blog hub",
     "cluster": "Blog",
-    "url": "https://boardexambd.com/blog.html",
+    "url": "https://boardexambd.com/blog",
     "title": "SSC, HSC & Admission Guides 2026 | BoardExamBD",
     "description": (
         "All BoardExamBD guides — SSC and HSC routines, results, form fill-up, and "
@@ -67,7 +74,7 @@ NOT_FOUND = {
     "slug": "404",
     "type": "Utility",
     "cluster": "Utility",
-    "url": "https://boardexambd.com/404.html",
+    "url": "https://boardexambd.com/404",
     "title": "Page Not Found | BoardExamBD",
     "description": "The page you requested could not be found. Browse SSC, HSC and university admission guides on BoardExamBD.",
     "h1": "Page not found",
@@ -87,7 +94,7 @@ HUBS = [
         "slug": "ssc",
         "type": "Category hub",
         "cluster": "SSC",
-        "url": "https://boardexambd.com/ssc.html",
+        "url": "https://boardexambd.com/ssc",
         "title": "SSC Notices & Routine 2026 — All Boards | BoardExamBD",
         "description": (
             "SSC exam notices, routine, result and form fill-up updates for all "
@@ -120,7 +127,7 @@ HUBS = [
         "slug": "hsc",
         "type": "Category hub",
         "cluster": "HSC",
-        "url": "https://boardexambd.com/hsc.html",
+        "url": "https://boardexambd.com/hsc",
         "title": "HSC Notices & Routine 2026 — All Boards | BoardExamBD",
         "description": (
             "HSC exam notices, routine, result, form fill-up and practical exam "
@@ -153,7 +160,7 @@ HUBS = [
         "slug": "admission",
         "type": "Category hub",
         "cluster": "Admission",
-        "url": "https://boardexambd.com/admission.html",
+        "url": "https://boardexambd.com/admission",
         "title": "University Admission 2026-27 Notices | BoardExamBD",
         "description": (
             "University admission notices for 2026-27 — DU, BUET, medical, GST, RU, "
@@ -190,8 +197,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "SSC",
         "category": "SSC",
-        "category_url": "ssc.html",
-        "url": "https://boardexambd.com/ssc-2026-routine.html",
+        "category_url": "ssc",
+        "url": "https://boardexambd.com/ssc-2026-routine",
         "title": "SSC 2026 Routine — Full Exam Schedule | BoardExamBD",
         "description": (
             "SSC 2026 exam routine with subject-wise dates, subject codes, 10:00 AM "
@@ -241,8 +248,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "SSC",
         "category": "SSC",
-        "category_url": "ssc.html",
-        "url": "https://boardexambd.com/ssc-2026-result.html",
+        "category_url": "ssc",
+        "url": "https://boardexambd.com/ssc-2026-result",
         "title": "SSC Result 2026 — Date & How to Check | BoardExamBD",
         "description": (
             "SSC and Dakhil result 2026 was published on 10 August. Check your "
@@ -292,8 +299,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "SSC",
         "category": "SSC",
-        "category_url": "ssc.html",
-        "url": "https://boardexambd.com/ssc-form-fillup-2027.html",
+        "category_url": "ssc",
+        "url": "https://boardexambd.com/ssc-form-fillup-2027",
         "title": "SSC Form Fill-up 2027 — Dates & Process | BoardExamBD",
         "description": (
             "SSC 2027 form fill-up runs through your institution. See the announced "
@@ -343,8 +350,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "SSC",
         "category": "SSC",
-        "category_url": "ssc.html",
-        "url": "https://boardexambd.com/ssc-board-challenge-2026.html",
+        "category_url": "ssc",
+        "url": "https://boardexambd.com/ssc-board-challenge-2026",
         "title": "SSC Board Challenge 2026 — Fees & Result | BoardExamBD",
         "description": (
             "SSC board challenge 2026 applications ran 11–17 August by SMS, Tk 150 "
@@ -394,8 +401,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "HSC",
         "category": "HSC",
-        "category_url": "hsc.html",
-        "url": "https://boardexambd.com/hsc-2026-routine.html",
+        "category_url": "hsc",
+        "url": "https://boardexambd.com/hsc-2026-routine",
         "title": "HSC Routine 2026 — Exam Dates & Schedule | BoardExamBD",
         "description": (
             "HSC 2026 routine with written exam dates from 2 July to 8 August, "
@@ -403,7 +410,7 @@ ARTICLES = [
         ),
         "h1": "HSC Routine 2026 — Exam Dates & Full Schedule",
         "published": "2026-10-23",
-        "modified": "2026-10-23",
+        "modified": "2026-10-30",
         "keywords": "HSC routine 2026, HSC exam date 2026, HSC schedule, Bangladesh education board",
         "schema": "Article + Organization + WebPage + BreadcrumbList + FAQPage",
         "next_review": "2026-11-15",
@@ -449,8 +456,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "HSC",
         "category": "HSC",
-        "category_url": "hsc.html",
-        "url": "https://boardexambd.com/hsc-2026-result.html",
+        "category_url": "hsc",
+        "url": "https://boardexambd.com/hsc-2026-result",
         "title": "HSC Result 2026 — Date & How to Check | BoardExamBD",
         "description": (
             "HSC and Alim result 2026 is scheduled for 29 October. Check your "
@@ -500,8 +507,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "HSC",
         "category": "HSC",
-        "category_url": "hsc.html",
-        "url": "https://boardexambd.com/hsc-form-fillup-2027.html",
+        "category_url": "hsc",
+        "url": "https://boardexambd.com/hsc-form-fillup-2027",
         "title": "HSC Form Fill-up 2027 — Dates & Process | BoardExamBD",
         "description": (
             "HSC form fill-up 2027 is expected around February–March. See how the "
@@ -551,8 +558,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "HSC",
         "category": "HSC",
-        "category_url": "hsc.html",
-        "url": "https://boardexambd.com/hsc-practical-2026.html",
+        "category_url": "hsc",
+        "url": "https://boardexambd.com/hsc-practical-2026",
         "title": "HSC Practical Exams 2026 — Rules & Marks | BoardExamBD",
         "description": (
             "HSC 2026 practical exams were held at students' own institutions and "
@@ -602,8 +609,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/buet-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/buet-admission-2026-27",
         "title": "BUET Admission 2026-27 — Dates & Process | BoardExamBD",
         "description": (
             "BUET admission 2026-27 preliminary test is set for 16 January 2027. "
@@ -653,8 +660,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/du-a-unit-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/du-a-unit-admission-2026-27",
         "title": "DU A Unit Admission 2026-27 — Dates | BoardExamBD",
         "description": (
             "DU A Unit admission 2026-27 applications run 11–25 November, with unit "
@@ -704,8 +711,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/gst-a-unit-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/gst-a-unit-admission-2026-27",
         "title": "GST Admission 2026-27 — A Unit Dates | BoardExamBD",
         "description": (
             "GST university cluster admission 2026-27 A Unit form fill-up, one-hour "
@@ -754,8 +761,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/ku-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/ku-admission-2026-27",
         "title": "KU Admission 2026-27 — Application & Test | BoardExamBD",
         "description": (
             "Khulna University admission 2026-27 applications closed on 30 September. "
@@ -804,8 +811,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/medical-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/medical-admission-2026-27",
         "title": "Medical Admission 2026-27 — Dates & Process | BoardExamBD",
         "description": (
             "MBBS and BDS medical admission 2026-27: DGME form fill-up, tentative "
@@ -855,8 +862,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/ru-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/ru-admission-2026-27",
         "title": "RU Admission 2026-27 — Application & Tests | BoardExamBD",
         "description": (
             "Rajshahi University admission 2026-27 applications open 12 November, "
@@ -906,8 +913,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/ruet-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/ruet-admission-2026-27",
         "title": "RUET Admission 2026-27 — Dates & Process | BoardExamBD",
         "description": (
             "RUET admission 2026-27 circular is expected in late November. See the "
@@ -957,8 +964,8 @@ ARTICLES = [
         "type": "Article",
         "cluster": "Admission",
         "category": "Admission",
-        "category_url": "admission.html",
-        "url": "https://boardexambd.com/sust-admission-2026-27.html",
+        "category_url": "admission",
+        "url": "https://boardexambd.com/sust-admission-2026-27",
         "title": "SUST Admission 2026-27 — Dates & Process | BoardExamBD",
         "description": (
             "SUST admission 2026-27 A and B unit tests, application window on "
@@ -1012,6 +1019,13 @@ for article in ARTICLES:
 
 ALL_INDEXABLE = [HOME] + HUBS + [BLOG] + ARTICLES
 ALL_PAGES = ALL_INDEXABLE + [NOT_FOUND]
+
+# Public URLs are extensionless: /blog, /ssc-2026-routine, and / for the homepage.
+for page in ALL_PAGES:
+    page["path"] = page_path(page["file"])
+    page["url"] = f"{SITE['domain']}{page['path']}"
+for article in ARTICLES:
+    article["category_url"] = article["category_url"].removesuffix(".html")
 
 ARTICLE_BY_SLUG = {article["slug"]: article for article in ARTICLES}
 PAGE_BY_FILE = {page["file"]: page for page in ALL_PAGES}

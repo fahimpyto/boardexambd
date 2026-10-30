@@ -18,10 +18,10 @@ WEBSITE_ID = f"{DOMAIN}/#website"
 
 NAV_ITEMS = [
     ("home", "Home", "/"),
-    ("ssc", "SSC", "/ssc.html"),
-    ("hsc", "HSC", "/hsc.html"),
-    ("admission", "Admission", "/admission.html"),
-    ("blog", "Blog", "/blog.html"),
+    ("ssc", "SSC", "/ssc"),
+    ("hsc", "HSC", "/hsc"),
+    ("admission", "Admission", "/admission"),
+    ("blog", "Blog", "/blog"),
 ]
 
 CLUSTER_STYLES = {
@@ -209,19 +209,19 @@ def site_footer() -> str:
         <div>
           <p class="text-xs font-bold uppercase tracking-[0.16em] text-slate-500">Study</p>
           <ul class="mt-4 space-y-2.5 text-sm">
-            <li><a href="/ssc.html" class="text-slate-600 transition hover:text-indigo-700">SSC notices &amp; routine</a></li>
-            <li><a href="/hsc.html" class="text-slate-600 transition hover:text-indigo-700">HSC notices &amp; routine</a></li>
-            <li><a href="/admission.html" class="text-slate-600 transition hover:text-indigo-700">University admission</a></li>
-            <li><a href="/blog.html" class="text-slate-600 transition hover:text-indigo-700">All guides</a></li>
+            <li><a href="/ssc" class="text-slate-600 transition hover:text-indigo-700">SSC notices &amp; routine</a></li>
+            <li><a href="/hsc" class="text-slate-600 transition hover:text-indigo-700">HSC notices &amp; routine</a></li>
+            <li><a href="/admission" class="text-slate-600 transition hover:text-indigo-700">University admission</a></li>
+            <li><a href="/blog" class="text-slate-600 transition hover:text-indigo-700">All guides</a></li>
           </ul>
         </div>
         <div>
           <p class="text-xs font-bold uppercase tracking-[0.16em] text-slate-500">Popular guides</p>
           <ul class="mt-4 space-y-2.5 text-sm">
-            <li><a href="/hsc-2026-result.html" class="text-slate-600 transition hover:text-indigo-700">HSC result 2026</a></li>
-            <li><a href="/ssc-form-fillup-2027.html" class="text-slate-600 transition hover:text-indigo-700">SSC form fill-up 2027</a></li>
-            <li><a href="/du-a-unit-admission-2026-27.html" class="text-slate-600 transition hover:text-indigo-700">DU A Unit admission</a></li>
-            <li><a href="/medical-admission-2026-27.html" class="text-slate-600 transition hover:text-indigo-700">Medical admission</a></li>
+            <li><a href="/hsc-2026-result" class="text-slate-600 transition hover:text-indigo-700">HSC result 2026</a></li>
+            <li><a href="/ssc-form-fillup-2027" class="text-slate-600 transition hover:text-indigo-700">SSC form fill-up 2027</a></li>
+            <li><a href="/du-a-unit-admission-2026-27" class="text-slate-600 transition hover:text-indigo-700">DU A Unit admission</a></li>
+            <li><a href="/medical-admission-2026-27" class="text-slate-600 transition hover:text-indigo-700">Medical admission</a></li>
           </ul>
         </div>
         <div>
@@ -564,7 +564,7 @@ def render_article_card(article: dict, *, show_cluster: bool = True, compact: bo
     <span class="text-xs text-slate-500">Updated {e(display_date(article['modified'], short=True))}</span>
   </div>
   <h3 class="mt-3 {title_size} font-bold leading-6 text-slate-900">
-    <a href="/{e(article['file'])}" class="transition group-hover:text-indigo-700">{e(card_title(article))}</a>
+    <a href="{e(article['path'])}" class="transition group-hover:text-indigo-700">{e(card_title(article))}</a>
   </h3>
   {description}
   <span class="mt-auto inline-flex items-center gap-1 pt-4 text-sm font-semibold {style['text']}">Read guide <span aria-hidden="true">&rarr;</span></span>
@@ -638,7 +638,7 @@ def render_author_box(article: dict) -> str:
       <h2 id="author-title" class="text-lg font-bold text-slate-900">About the author</h2>
       <p class="mt-2 text-sm leading-6 text-slate-600">The <strong class="font-semibold text-slate-900">BoardExamBD Editorial Team</strong> prepares plain-language guides to SSC, HSC and university admission notices. Each guide links to the official board or university source used for its dates and instructions.</p>
       <p class="mt-3 text-xs text-slate-500">Guide updated <time datetime="{iso_date(article['modified'])}">{e(display_date(article['modified']))}</time>. BoardExamBD is independent and is not affiliated with any education board or university.</p>
-      <a href="/blog.html" class="mt-3 inline-flex text-sm font-semibold text-indigo-600 hover:text-indigo-800">Browse all guides <span aria-hidden="true">&rarr;</span></a>
+      <a href="/blog" class="mt-3 inline-flex text-sm font-semibold text-indigo-600 hover:text-indigo-800">Browse all guides <span aria-hidden="true">&rarr;</span></a>
     </div>
   </div>
 </section>"""
@@ -653,7 +653,7 @@ def render_related(article: dict) -> str:
 <section aria-labelledby="related-title" class="mt-12">
   <div class="flex flex-wrap items-end justify-between gap-3">
     <h2 id="related-title" class="text-2xl font-extrabold tracking-tight text-slate-900">Related guides</h2>
-    <a href="/blog.html" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">All guides <span aria-hidden="true">&rarr;</span></a>
+    <a href="/blog" class="text-sm font-semibold text-indigo-600 hover:text-indigo-800">All guides <span aria-hidden="true">&rarr;</span></a>
   </div>
   <div class="mt-5 grid gap-4 sm:grid-cols-3">{cards}</div>
 </section>"""

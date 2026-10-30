@@ -1,7 +1,7 @@
 ---
 title: "SSC Board Challenge 2026 — Process, Fees & Result"
 description: "SSC board challenge 2026 applications ran 11–17 August by SMS, Tk 150 per paper, results on 10 September. See the full process and next cycle."
-url: "https://boardexambd.com/ssc-board-challenge-2026.html"
+url: "https://boardexambd.com/ssc-board-challenge-2026"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "SSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/ssc-board-challenge-2026.html"
+canonical: "https://boardexambd.com/ssc-board-challenge-2026"
 ---
 
 # SSC Board Challenge 2026 — Process, Fees & Result
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/ssc-board-challenge-2026.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/ssc-board-challenge-2026.html)
+[Read the formatted guide](https://boardexambd.com/ssc-board-challenge-2026)
 
 ## Key facts
 

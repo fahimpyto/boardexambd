@@ -1,7 +1,7 @@
 ---
 title: "Medical (MBBS/BDS) Admission 2026-27 — Form Fill-up & Exam Date"
 description: "MBBS and BDS medical admission 2026-27: DGME form fill-up, tentative test date 4 December, eligibility and the one-hour MCQ exam format."
-url: "https://boardexambd.com/medical-admission-2026-27.html"
+url: "https://boardexambd.com/medical-admission-2026-27"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "Admission"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/medical-admission-2026-27.html"
+canonical: "https://boardexambd.com/medical-admission-2026-27"
 ---
 
 # Medical (MBBS/BDS) Admission 2026-27 — Form Fill-up & Exam Date
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/medical-admission-2026-27.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/medical-admission-2026-27.html)
+[Read the formatted guide](https://boardexambd.com/medical-admission-2026-27)
 
 ## Key facts
 

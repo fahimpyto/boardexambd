@@ -84,7 +84,7 @@ Original article facts and body text are preserved in `svc:*` HTML markers. Rebu
 ## 6. Crawler and AI files
 
 - `sitemap.xml`: 21 indexable URLs with `lastmod`, `changefreq` and priority.
-- `robots.txt`: allows search and AI crawlers; disallows `404.html` and `SEO_TEMPLATE.html`; declares the sitemap.
+- `robots.txt`: allows search and AI crawlers; disallows `/404` and `/SEO_TEMPLATE`; declares the sitemap.
 - `llms.txt`: site summary, core pages, all SSC/HSC/admission guides and their Markdown mirrors.
 - `md/<slug>.md`: one Markdown mirror per article with YAML front matter, key facts, body, checklist, FAQs, sources and author note.
 - `assets/images/site.webmanifest`: app name, icons, colours and shortcuts.

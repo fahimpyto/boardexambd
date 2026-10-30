@@ -1,24 +1,24 @@
 ---
 title: "HSC Routine 2026 — Exam Dates & Full Schedule"
 description: "HSC 2026 routine with written exam dates from 2 July to 8 August, practical exams by 15 August, and exam times for all education boards."
-url: "https://boardexambd.com/hsc-2026-routine.html"
+url: "https://boardexambd.com/hsc-2026-routine"
 date_published: "2026-10-23"
-date_modified: "2026-10-23"
+date_modified: "2026-10-30"
 author: "BoardExamBD Editorial Team"
 publisher: "BoardExamBD"
 category: "HSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/hsc-2026-routine.html"
+canonical: "https://boardexambd.com/hsc-2026-routine"
 ---
 
 # HSC Routine 2026 — Exam Dates & Full Schedule
 
 > When the HSC, Alim and equivalent exams of 2026 happened, subject timelines and exam rules — all in simple words.
 
-**Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
+**Updated:** 2026-10-30 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
 
-[Read the formatted guide](https://boardexambd.com/hsc-2026-routine.html)
+[Read the formatted guide](https://boardexambd.com/hsc-2026-routine)
 
 ## Key facts
 
@@ -35,6 +35,30 @@ The education boards published the routine for the  **Higher Secondary Certifica
 - ✓ The written part ran for about five weeks and **ended in early August (8 August 2026)**.
 - ✓ **Practical exams** for science and technical subjects were completed by **15 August 2026**.
 - ✓ Every exam started at **10:00 AM (সকাল ১০:০০টা)**.
+
+## Official notice
+
+This is the official HSC 2026 routine notice issued by the education boards. Tap any page to open it full size, or download the complete notice as a PDF.
+
+[![Official HSC 2026 routine notice, page 1 — subject-wise written exam schedule](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-1.webp)](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-1.webp)
+
+Page 1 — Written exam schedule (লিখিত পরীক্ষার সময়সূচি)
+[Open full size ↗](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-1.webp)
+
+[![Official HSC 2026 routine notice, page 2 — schedule continued and practical exam instructions](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-2.webp)](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-2.webp)
+
+Page 2 — Schedule continued + practical exams (ব্যবহারিক পরীক্ষার সময়সূচি)
+[Open full size ↗](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-2.webp)
+
+[![Official HSC 2026 routine notice, page 3 — special instructions for candidates](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-3.webp)](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-3.webp)
+
+Page 3 — Candidate instructions (বিশেষ নির্দেশনাবলি)
+[Open full size ↗](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-3.webp)
+
+[Download official notice (PDF, 1.1 MB)](https://boardexambd.com/assets/pdf/hsc-2026-routine-notice.pdf)
+Source: Bangladesh Education Board
+
+Reproduced here for reference. Always verify your subject dates and instructions with your own education board.
 
 ## Timeline at a glance
 

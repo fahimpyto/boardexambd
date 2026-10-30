@@ -3,8 +3,8 @@
 
 User-agent: *
 Allow: /
-Disallow: /404.html
-Disallow: /SEO_TEMPLATE.html
+Disallow: /404
+Disallow: /SEO_TEMPLATE
 
 User-agent: GPTBot
 Allow: /

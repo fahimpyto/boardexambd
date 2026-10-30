@@ -1,7 +1,7 @@
 ---
 title: "SSC Form Fill-up 2027 — Dates & How to Apply"
 description: "SSC 2027 form fill-up runs through your institution. See the announced online window, fees, late fee rules and step-by-step process."
-url: "https://boardexambd.com/ssc-form-fillup-2027.html"
+url: "https://boardexambd.com/ssc-form-fillup-2027"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "SSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/ssc-form-fillup-2027.html"
+canonical: "https://boardexambd.com/ssc-form-fillup-2027"
 ---
 
 # SSC Form Fill-up 2027 — Dates & How to Apply
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/ssc-form-fillup-2027.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
 
-[Read the formatted guide](https://boardexambd.com/ssc-form-fillup-2027.html)
+[Read the formatted guide](https://boardexambd.com/ssc-form-fillup-2027)
 
 ## Key facts
 

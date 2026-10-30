@@ -1,7 +1,7 @@
 ---
 title: "GST Admission 2026-27 — A Unit Form Fill-up & Exam Date"
 description: "GST university cluster admission 2026-27 A Unit form fill-up, one-hour MCQ pattern, eligibility and the latest circular updates from gstadmission.ac.bd."
-url: "https://boardexambd.com/gst-a-unit-admission-2026-27.html"
+url: "https://boardexambd.com/gst-a-unit-admission-2026-27"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "Admission"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/gst-a-unit-admission-2026-27.html"
+canonical: "https://boardexambd.com/gst-a-unit-admission-2026-27"
 ---
 
 # GST Admission 2026-27 — A Unit Form Fill-up & Exam Date
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/gst-a-unit-admission-2026-27.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/gst-a-unit-admission-2026-27.html)
+[Read the formatted guide](https://boardexambd.com/gst-a-unit-admission-2026-27)
 
 ## Key facts
 

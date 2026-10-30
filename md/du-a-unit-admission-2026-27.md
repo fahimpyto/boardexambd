@@ -1,7 +1,7 @@
 ---
 title: "DU A Unit Admission 2026-27 — Form Fill-up & Exam Date"
 description: "DU A Unit admission 2026-27 applications run 11–25 November, with unit tests from 5–26 December. See eligibility, form fill-up and exam details."
-url: "https://boardexambd.com/du-a-unit-admission-2026-27.html"
+url: "https://boardexambd.com/du-a-unit-admission-2026-27"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "Admission"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/du-a-unit-admission-2026-27.html"
+canonical: "https://boardexambd.com/du-a-unit-admission-2026-27"
 ---
 
 # DU A Unit Admission 2026-27 — Form Fill-up & Exam Date
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/du-a-unit-admission-2026-27.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
 
-[Read the formatted guide](https://boardexambd.com/du-a-unit-admission-2026-27.html)
+[Read the formatted guide](https://boardexambd.com/du-a-unit-admission-2026-27)
 
 ## Key facts
 

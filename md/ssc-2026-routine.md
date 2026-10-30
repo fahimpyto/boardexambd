@@ -1,7 +1,7 @@
 ---
 title: "SSC 2026 Exam Routine — Full Schedule & Details"
 description: "SSC 2026 exam routine with subject-wise dates, subject codes, 10:00 AM start time and official board instructions for all general boards."
-url: "https://boardexambd.com/ssc-2026-routine.html"
+url: "https://boardexambd.com/ssc-2026-routine"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "SSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/ssc-2026-routine.html"
+canonical: "https://boardexambd.com/ssc-2026-routine"
 ---
 
 # SSC 2026 Exam Routine — Full Schedule & Details
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/ssc-2026-routine.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
 
-[Read the formatted guide](https://boardexambd.com/ssc-2026-routine.html)
+[Read the formatted guide](https://boardexambd.com/ssc-2026-routine)
 
 ## Key facts
 

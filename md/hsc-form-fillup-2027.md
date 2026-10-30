@@ -1,7 +1,7 @@
 ---
 title: "HSC Form Fill-up 2027 — Expected Dates & Process"
 description: "HSC form fill-up 2027 is expected around February–March. See how the college-based process works, the 2026 fees and what to prepare."
-url: "https://boardexambd.com/hsc-form-fillup-2027.html"
+url: "https://boardexambd.com/hsc-form-fillup-2027"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
 author: "BoardExamBD Editorial Team"
@@ -9,7 +9,7 @@ publisher: "BoardExamBD"
 category: "HSC"
 language: en
 robots: index, follow
-canonical: "https://boardexambd.com/hsc-form-fillup-2027.html"
+canonical: "https://boardexambd.com/hsc-form-fillup-2027"
 ---
 
 # HSC Form Fill-up 2027 — Expected Dates & Process
@@ -18,7 +18,7 @@ canonical: "https://boardexambd.com/hsc-form-fillup-2027.html"
 
 **Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
-[Read the formatted guide](https://boardexambd.com/hsc-form-fillup-2027.html)
+[Read the formatted guide](https://boardexambd.com/hsc-form-fillup-2027)
 
 ## Key facts
 
