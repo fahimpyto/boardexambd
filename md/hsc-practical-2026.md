@@ -54,7 +54,7 @@ The **HSC 2026 written exams** ran from 2 July to 8 August 2026, and after the w
 | Written exams began | 2 July 2026 | Done |
 | Written exams ended | 8 August 2026 | Done |
 | Practical exams completed by | 15 August 2026 | Done |
-| Result publication | 29 October 2026 (scheduled) | Announced |
+| Result publication | 31 October 2026 (published) | Announced |
 | Next batch — 2027 practicals | After the 2027 written exams | Expected |
 
 **Practical dates are institution-specific** — if your college changes a practical day, that decision stands. For next batch, watch both your college notice board and the board website. BoardExamBD is an independent informational site.

@@ -29,7 +29,7 @@ canonical: "https://boardexambd.com/medical-admission-2026-27"
 
 ## What we know so far (real-time status)
 
-As of 23 October 2026, the **MBBS/BDS admission circular for 2026-27 has not been published yet** on the DGME portal. Early reports place the **admission test tentatively on 4 December 2026** — that timing depends on the **HSC result (scheduled for 29 October 2026)**, because the test is scheduled after the results come out. Expect the official circular and the form fill-up window to appear on **dgme.teletalk.com.bd** around **mid-November 2026**, matching last year's pattern.
+As of 23 October 2026, the **MBBS/BDS admission circular for 2026-27 has not been published yet** on the DGME portal. Early reports place the **admission test tentatively on 4 December 2026** — that timing depends on the **HSC result (published 31 October 2026)**, because the test is scheduled after the results come out. Expect the official circular and the form fill-up window to appear on **dgme.teletalk.com.bd** around **mid-November 2026**, matching last year's pattern.
 
 - ✓ Last cycle, online form fill-up ran from **11 to 21 November 2025** with an application fee of **Tk 1000**.
 - ✓ The test is a **100-mark MCQ paper in 1 hour 15 minutes** — Biology, Chemistry, Physics, English and General Knowledge.
@@ -43,7 +43,7 @@ As of 23 October 2026, the **MBBS/BDS admission circular for 2026-27 has not bee
 | Circular & online form fill-up | ~Mid November 2026 | Expected |
 | Admission test (MCQ) | 4 December 2026 | Tentative |
 | Admit card download | After form fill-up closes | Expected |
-| HSC result (prerequisite) | 29 October 2026 (scheduled) | Announced |
+| HSC result (prerequisite) | 31 October 2026 (published) | Announced |
 | Last cycle reference — test day | Held in early 2026 (2025-26 session) | Done |
 
 ## How to apply — step by step

@@ -29,7 +29,7 @@ canonical: "https://boardexambd.com/hsc-form-fillup-2027"
 
 ## What we know so far (real-time status)
 
-The **HSC 2026 form fill-up is already complete**: students filled their online forms between **1 and 9 March 2026**, with the fee submission deadline on **10 March 2026** and a late-fee extension running to about **18 March**. Those candidates then sat the exams from 2 July, and their results are scheduled for **29 October 2026**.
+The **HSC 2026 form fill-up is already complete**: students filled their online forms between **1 and 9 March 2026**, with the fee submission deadline on **10 March 2026** and a late-fee extension running to about **18 March**. Those candidates then sat the exams from 2 July, and their results are scheduled for **31 October 2026**.
 
 - ✓ For the **2027 session**, no circular has been issued yet as of 23 October 2026 — based on the last cycle, expect the fill-up window around **February–March 2027**.
 - ✓ Form fill-up runs through **your college** — the institution submits data to the board system; you confirm subjects and pay the fee at the college.

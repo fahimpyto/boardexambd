@@ -1,6 +1,6 @@
 ---
 title: "HSC Result 2026 — Date & How to Check Online/SMS"
-description: "HSC and Alim result 2026 is scheduled for 29 October. Check your marksheet online at eboardresults.com or by SMS with this simple guide."
+description: "HSC and Alim result 2026 is published 31 October 2026. Check your marksheet online at eboardresults.com or by SMS with this simple guide."
 url: "https://boardexambd.com/hsc-2026-result"
 date_published: "2026-10-23"
 date_modified: "2026-10-23"
@@ -22,14 +22,14 @@ canonical: "https://boardexambd.com/hsc-2026-result"
 
 ## Key facts
 
-- **Result date:** 29 October 2026 — Thursday — scheduled
+- **Result date:** 31 October 2026 — Thursday — scheduled
 - **Online portals:** 2 ways — Board portal & eboardresults
 - **Result by SMS:** 16222 — HSC <Board> <Roll> 2026
 - **Covers:** HSC · Alim · DIBS — All boards, same day
 
 ## HSC Result 2026 — when is it?
 
-The results of the **HSC, Alim and equivalent examinations of 2026 are scheduled to be published on Thursday, 29 October 2026** — according to the education boards' latest notice. The 2026 exams began on 2 July and the last written paper was held on 8 August 2026, with practical exams completed by 15 August.
+The results of the **HSC, Alim and equivalent examinations of 2026 are scheduled to be published on Thursday, 31 October 2026** — according to the education boards' latest notice. The 2026 exams began on 2 July and the last written paper was held on 8 August 2026, with practical exams completed by 15 August.
 
 - ✓ Results for **all 11 boards** come out together on the same day.
 - ✓ Admission results usually go live **around 10:00 AM** in the morning.
@@ -78,7 +78,7 @@ Your college also receives the results. Visit the office after the result goes l
 
 ### When is the HSC result 2026?
 
-The HSC, Alim and DIBS results are scheduled for Thursday, 29 October 2026, according to the education boards' latest notice.
+The HSC, Alim and DIBS results are published on Saturday, 31 October 2026 (revised from 29 Oct), according to the education boards' latest notice.
 
 ### How can I check the HSC result 2026 online?
 
