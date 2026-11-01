@@ -38,7 +38,7 @@ The education boards published the routine for the  **Higher Secondary Certifica
 
 ## Official notice
 
-This is the official HSC 2026 routine notice issued by the education boards. Tap any page to open it full size, or download the complete notice as a PDF.
+This is the official HSC 2026 routine notice issued by the education boards. Tap any page to open it full size.
 
 [![Official HSC 2026 routine notice, page 1 — subject-wise written exam schedule](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-1.webp)](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-1.webp)
 
@@ -55,7 +55,6 @@ Page 2 — Schedule continued + practical exams (ব্যবহারিক প
 Page 3 — Candidate instructions (বিশেষ নির্দেশনাবলি)
 [Open full size ↗](https://boardexambd.com/assets/images/hsc-2026-routine/notice-page-3.webp)
 
-[Download official notice (PDF, 1.1 MB)](https://boardexambd.com/assets/pdf/hsc-2026-routine-notice.pdf)
 Source: Bangladesh Education Board
 
 Reproduced here for reference. Always verify your subject dates and instructions with your own education board.
