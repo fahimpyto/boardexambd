@@ -144,7 +144,7 @@ Running `python tools/make_tracker.py` recreates the workbook and resets all pag
 | Live Rich Results, Schema Validator, Lighthouse and social preview checks | Pending deploy |
 | Real GA4, Search Console, Bing and Pinterest IDs | Not supplied; analytics omitted |
 | Per-page Open Graph images | Pending design |
-| HSC 2026 result post-publication update | Pending 29 October 2026 |
+| HSC 2026 result post-publication update | Done — published 31 October 2026 |
 | SSC 2027 form fill-up post-window update | Pending after 23 November 2026 |
 
 No unverified dates, times or claims should be added while completing these items.

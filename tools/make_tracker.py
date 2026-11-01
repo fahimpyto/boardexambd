@@ -257,8 +257,8 @@ def _setup_issues(ws):
          "Replace the shared og-default.jpg with per-page images when available.", "2026-10-26"),
         ("4", "Site-wide", "Live validation cannot run until the site is deployed.", "Medium", "Open",
          "Run Rich Results Test, Schema Markup Validator, Lighthouse and social previews after deploy.", "2026-10-26"),
-        ("5", "hsc-2026-result.html", "HSC result is scheduled for 29 October 2026; page needs a post-result update.", "High", "Open",
-         "Update the result status, steps and FAQ on 29 October 2026.", "2026-10-26"),
+        ("5", "hsc-2026-result.html", "HSC result was published on 31 October 2026 (revised from 29 Oct); page updated with pass rate, GPA-5 and SMS number.", "High", "Done",
+         "Re-check the page after the 1-7 Nov 2026 re-scrutiny window closes.", "2026-10-31"),
         ("6", "ssc-form-fillup-2027.html", "SSC 2027 form fill-up window is 16–23 November 2026.", "High", "Open",
          "Update the status and fee details after the window opens and closes.", "2026-10-26"),
         ("7", "Category hubs", "Old sample-data routine and requirements tables were placeholders.", "High", "Done",
@@ -300,7 +300,7 @@ def _setup_config(ws):
         ("AI index", "llms.txt", "Site-level AI crawler summary"),
         ("Sitemap", "sitemap.xml", "21 indexable URLs"),
         ("Robots", "robots.txt", "Allows search and AI crawlers"),
-        ("Last updated", "2026-10-26", "SEO overhaul"),
+        ("Last updated", "2026-10-31", "HSC result published 31 October 2026; site-wide date refresh"),
     ]
     for row in config:
         ws.append(row)

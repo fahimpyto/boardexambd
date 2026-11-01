@@ -153,7 +153,7 @@ Do not commit `dist/`; it is generated from the committed HTML and assets. Live 
 - Run Google Rich Results Test, Schema Markup Validator, Lighthouse and social preview checks against the live URLs.
 - Add real GA4, Search Console, Bing and Pinterest IDs if required. Analytics is intentionally omitted until then.
 - Replace the shared Open Graph image with per-page images when available.
-- Update `hsc-2026-result.html` after the scheduled 29 October 2026 result publication.
+- Update `hsc-2026-result.html` after the 1–7 November 2026 re-scrutiny window closes.
 - Update `ssc-form-fillup-2027.html` during and after the 16–23 November 2026 form fill-up window.
 
 BoardExamBD is independent and is not affiliated with any education board or university. Always verify final dates and instructions with the official source.

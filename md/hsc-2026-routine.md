@@ -3,7 +3,7 @@ title: "HSC Routine 2026 — Exam Dates & Full Schedule"
 description: "HSC 2026 routine with written exam dates from 2 July to 8 August, practical exams by 15 August, and exam times for all education boards."
 url: "https://boardexambd.com/hsc-2026-routine"
 date_published: "2026-10-23"
-date_modified: "2026-10-30"
+date_modified: "2026-10-31"
 author: "BoardExamBD Editorial Team"
 publisher: "BoardExamBD"
 category: "HSC"
@@ -16,7 +16,7 @@ canonical: "https://boardexambd.com/hsc-2026-routine"
 
 > When the HSC, Alim and equivalent exams of 2026 happened, subject timelines and exam rules — all in simple words.
 
-**Updated:** 2026-10-30 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
+**Updated:** 2026-10-31 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 4 min
 
 [Read the formatted guide](https://boardexambd.com/hsc-2026-routine)
 
@@ -25,7 +25,7 @@ canonical: "https://boardexambd.com/hsc-2026-routine"
 - **First exam:** 2 July 2026 — Thursday — Bangla 1st paper
 - **Written exams ended:** 8 August 2026 — Around five weeks of papers
 - **Practicals by:** 15 August 2026 — Science/technical labs
-- **Result (scheduled):** 31 October 2026 — As per the latest notice
+- **Result (published):** 31 October 2026 — Saturday — published (revised)
 
 ## What happened — in simple words
 
@@ -137,9 +137,9 @@ Every HSC 2026 exam started at 10:00 AM. Students were advised to be seated by 9
 
 The routine covered 11 boards — nine general boards for HSC, the Madrasah board for Alim, and the Technical board for BM/DIBS candidates.
 
-### When is the HSC result 2026?
+### When was the HSC result 2026 published?
 
-The HSC, Alim and DIBS results are published 31 October 2026, according to the latest board notice.
+The HSC, Alim and DIBS results were published on Saturday, 31 October 2026, according to the latest board notice.
 
 ## Official sources
 

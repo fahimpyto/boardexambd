@@ -3,7 +3,7 @@ title: "HSC Practical Exams 2026 — Schedule, Rules & Marks"
 description: "HSC 2026 practical exams were held at students' own institutions and completed by 15 August. See the schedule rules, marks and what to carry."
 url: "https://boardexambd.com/hsc-practical-2026"
 date_published: "2026-10-23"
-date_modified: "2026-10-23"
+date_modified: "2026-10-31"
 author: "BoardExamBD Editorial Team"
 publisher: "BoardExamBD"
 category: "HSC"
@@ -16,7 +16,7 @@ canonical: "https://boardexambd.com/hsc-practical-2026"
 
 > How the lab-based practical (and oral/viva) exams for the 2026 HSC ran — institutions, timing, rules and what happens for the next batch.
 
-**Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
+**Updated:** 2026-10-31 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
 [Read the formatted guide](https://boardexambd.com/hsc-practical-2026)
 

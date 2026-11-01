@@ -45,7 +45,7 @@ HUB_FACTS = {
         {"label": "Boards covered", "value": "11 boards", "note": "Nine general boards, the Madrasah board and the Technical board."},
         {"label": "Written exams", "value": "2 July – 8 August 2026", "note": "Every paper started at 10:00 AM."},
         {"label": "Practical exams", "value": "By 15 August 2026", "note": "Completed after the written papers ended."},
-        {"label": "Result scheduled", "value": "29 October 2026", "note": "HSC, Alim and DIBS results are due on the same day."},
+        {"label": "Result published", "value": "31 October 2026", "note": "HSC, Alim and DIBS results were published together (revised from 29 Oct)."},
     ],
     "admission": [
         {"label": "Tracks covered", "value": "8 admission tracks", "note": "DU, BUET, medical, GST, RU, RUET, KU and SUST."},
@@ -67,7 +67,7 @@ HUB_TIMELINES = {
         {"date": "2 Jul 2026", "iso": "2026-07-02", "title": "Written exams began", "text": "The HSC, Alim and equivalent exams started with Bangla 1st paper at 10:00 AM.", "status": "Completed", "href": "/hsc-2026-routine", "link_label": "See the full routine"},
         {"date": "8 Aug 2026", "iso": "2026-08-08", "title": "Written exams ended", "text": "The last written paper closed a schedule that ran for around five weeks.", "status": "Completed", "href": "/hsc-2026-routine", "link_label": "Review the schedule"},
         {"date": "15 Aug 2026", "iso": "2026-08-15", "title": "Practical exams completed", "text": "Lab-based and oral exams were completed at students' own institutions or assigned centres.", "status": "Completed", "href": "/hsc-practical-2026", "link_label": "Read the practical guide"},
-        {"date": "29 Oct 2026", "iso": "2026-10-29", "title": "HSC result scheduled", "text": "HSC, Alim and DIBS results are scheduled for Thursday 29 October 2026, according to the latest board notice.", "status": "Scheduled", "href": "/hsc-2026-result", "link_label": "Check the result guide"},
+        {"date": "31 Oct 2026", "iso": "2026-10-31", "title": "HSC result published", "text": "HSC, Alim and DIBS results were published on Saturday 31 October 2026, according to the latest board notice.", "status": "Published", "href": "/hsc-2026-result", "link_label": "Check the result guide"},
         {"date": "Feb–Mar 2027", "title": "HSC 2027 form fill-up expected", "text": "No 2027 circular had been issued as of 23 October 2026. The window is expected around February–March, based on the last cycle.", "status": "Expected", "href": "/hsc-form-fillup-2027", "link_label": "See the expected process"},
     ],
 }
@@ -107,13 +107,13 @@ ADMISSION_ROWS = [
 ]
 
 HOME_DATES = [
-    {"day": "29", "month": "Oct", "title": "HSC Result 2026", "note": "Scheduled — all 11 boards", "href": "/hsc-2026-result"},
+    {"day": "31", "month": "Oct", "title": "HSC Result 2026", "note": "Published — all 11 boards", "href": "/hsc-2026-result"},
     {"day": "11", "month": "Nov", "title": "DU A Unit applications", "note": "Open at 12:00 noon", "href": "/du-a-unit-admission-2026-27"},
     {"day": "16", "month": "Nov", "title": "SSC 2027 form fill-up", "note": "Window opens through schools", "href": "/ssc-form-fillup-2027"},
 ]
 
 HOME_TIMELINE = [
-    {"date": "29 Oct 2026", "iso": "2026-10-29", "title": "HSC result 2026", "text": "HSC, Alim and DIBS results are scheduled for Thursday 29 October 2026, according to the latest board notice.", "status": "Scheduled", "href": "/hsc-2026-result", "link_label": "How to check the result"},
+    {"date": "31 Oct 2026", "iso": "2026-10-31", "title": "HSC result 2026", "text": "HSC, Alim and DIBS results were published on Saturday 31 October 2026 (revised from 29 Oct), per the official press release.", "status": "Published", "href": "/hsc-2026-result", "link_label": "How to check the result"},
     {"date": "11 Nov 2026", "iso": "2026-11-11", "title": "DU A Unit applications open", "text": "Apply from 12:00 noon on 11 November until 11:59 PM on 25 November 2026. All DU unit tests are planned for 5–26 December.", "status": "Upcoming", "href": "/du-a-unit-admission-2026-27", "link_label": "See eligibility and steps"},
     {"date": "16 Nov 2026", "iso": "2026-11-16", "title": "SSC 2027 form fill-up opens", "text": "The announced online window runs 16–23 November 2026 with no late fee. Your school submits the candidate data to the board.", "status": "Upcoming", "href": "/ssc-form-fillup-2027", "link_label": "Read the form fill-up guide"},
     {"date": "4 Dec 2026", "iso": "2026-12-04", "title": "Medical admission test", "text": "The MBBS/BDS admission test is tentatively set for 4 December 2026. The date depends on the HSC result and the DGME circular.", "status": "Tentative", "href": "/medical-admission-2026-27", "link_label": "See the medical guide"},

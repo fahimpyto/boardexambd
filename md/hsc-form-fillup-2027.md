@@ -3,7 +3,7 @@ title: "HSC Form Fill-up 2027 — Expected Dates & Process"
 description: "HSC form fill-up 2027 is expected around February–March. See how the college-based process works, the 2026 fees and what to prepare."
 url: "https://boardexambd.com/hsc-form-fillup-2027"
 date_published: "2026-10-23"
-date_modified: "2026-10-23"
+date_modified: "2026-10-31"
 author: "BoardExamBD Editorial Team"
 publisher: "BoardExamBD"
 category: "HSC"
@@ -16,7 +16,7 @@ canonical: "https://boardexambd.com/hsc-form-fillup-2027"
 
 > The registration process for HSC and equivalent exams — last cycle's real dates as the reference, and what to expect for the 2027 session.
 
-**Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
+**Updated:** 2026-10-31 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
 [Read the formatted guide](https://boardexambd.com/hsc-form-fillup-2027)
 
@@ -29,7 +29,7 @@ canonical: "https://boardexambd.com/hsc-form-fillup-2027"
 
 ## What we know so far (real-time status)
 
-The **HSC 2026 form fill-up is already complete**: students filled their online forms between **1 and 9 March 2026**, with the fee submission deadline on **10 March 2026** and a late-fee extension running to about **18 March**. Those candidates then sat the exams from 2 July, and their results are scheduled for **31 October 2026**.
+The **HSC 2026 form fill-up is already complete**: students filled their online forms between **1 and 9 March 2026**, with the fee submission deadline on **10 March 2026** and a late-fee extension running to about **18 March**. Those candidates then sat the exams from 2 July, and their results were published on **31 October 2026**.
 
 - ✓ For the **2027 session**, no circular has been issued yet as of 23 October 2026 — based on the last cycle, expect the fill-up window around **February–March 2027**.
 - ✓ Form fill-up runs through **your college** — the institution submits data to the board system; you confirm subjects and pay the fee at the college.

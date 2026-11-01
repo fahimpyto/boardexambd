@@ -42,7 +42,7 @@ HOME = {
     ),
     "h1": "SSC, HSC & Admission Notices and Routines in Bangladesh",
     "published": "2026-10-26",
-    "modified": "2026-10-26",
+    "modified": "2026-10-31",
     "keywords": "SSC notices, HSC notices, university admission Bangladesh, exam routines 2026",
     "schema": "WebSite + Organization + WebPage",
     "next_review": "2026-11-15",
@@ -62,7 +62,7 @@ BLOG = {
     ),
     "h1": "SSC, HSC & Admission Guides",
     "published": "2026-10-26",
-    "modified": "2026-10-26",
+    "modified": "2026-10-31",
     "keywords": "SSC guides, HSC guides, university admission guides Bangladesh",
     "schema": "CollectionPage + ItemList + BreadcrumbList",
     "next_review": "2026-11-15",
@@ -135,7 +135,7 @@ HUBS = [
         ),
         "h1": "HSC Notices & Routine 2026",
         "published": "2026-10-26",
-        "modified": "2026-10-26",
+        "modified": "2026-10-31",
         "keywords": "HSC notices 2026, HSC routine 2026, HSC result 2026, HSC form fill-up 2027",
         "schema": "CollectionPage + ItemList + BreadcrumbList + FAQPage",
         "next_review": "2026-11-15",
@@ -146,8 +146,8 @@ HUBS = [
                 "a": "The HSC, Alim and equivalent written exams began on 2 July 2026 with the Bangla 1st paper. The written part ended on 8 August 2026, and practical exams were completed by 15 August 2026.",
             },
             {
-                "q": "When is the HSC result 2026?",
-                "a": "The HSC, Alim and DIBS results are scheduled for 29 October 2026, according to the education boards' latest notice. Check the official board portals or our HSC result guide for the exact steps.",
+                "q": "When was the HSC result 2026 published?",
+                "a": "The HSC, Alim and DIBS results were published on Saturday, 31 October 2026, according to the education boards' latest notice. Check the official board portals or our HSC result guide for the exact steps.",
             },
             {
                 "q": "When is HSC form fill-up 2027?",
@@ -410,7 +410,7 @@ ARTICLES = [
         ),
         "h1": "HSC Routine 2026 — Exam Dates & Full Schedule",
         "published": "2026-10-23",
-        "modified": "2026-10-30",
+        "modified": "2026-10-31",
         "keywords": "HSC routine 2026, HSC exam date 2026, HSC schedule, Bangladesh education board",
         "schema": "Article + Organization + WebPage + BreadcrumbList + FAQPage",
         "next_review": "2026-11-15",
@@ -445,8 +445,8 @@ ARTICLES = [
                 "a": "The routine covered 11 boards — nine general boards for HSC, the Madrasah board for Alim, and the Technical board for BM/DIBS candidates.",
             },
             {
-                "q": "When is the HSC result 2026?",
-                "a": "The HSC, Alim and DIBS results are scheduled for 29 October 2026, according to the latest board notice.",
+                "q": "When was the HSC result 2026 published?",
+                "a": "The HSC, Alim and DIBS results were published on Saturday, 31 October 2026, according to the latest board notice.",
             },
         ],
     },
@@ -460,16 +460,17 @@ ARTICLES = [
         "url": "https://boardexambd.com/hsc-2026-result",
         "title": "HSC Result 2026 — Date & How to Check | BoardExamBD",
         "description": (
-            "HSC and Alim result 2026 is scheduled for 29 October. Check your "
-            "marksheet online at eboardresults.com or by SMS with this simple guide."
+            "HSC and Alim result 2026 was published 31 October 2026 (pass rate 52.12%, "
+            "40,084 GPA-5). Check your marksheet online at eboardresults.com or by "
+            "SMS with this simple guide."
         ),
         "h1": "HSC Result 2026 — Date & How to Check Online/SMS",
         "published": "2026-10-23",
-        "modified": "2026-10-23",
+        "modified": "2026-10-31",
         "keywords": "HSC result 2026, HSC result date, HSC result check online, HSC result SMS",
         "schema": "Article + Organization + WebPage + BreadcrumbList + FAQPage",
-        "next_review": "2026-10-29",
-        "notes": "High priority: update on 29 October 2026 when result is published.",
+        "next_review": "2026-11-07",
+        "notes": "Result published 31 October 2026 (revised from 29 Oct); re-scrutiny window 1-7 Nov 2026.",
         "related": ["hsc-2026-routine", "hsc-practical-2026", "hsc-form-fillup-2027"],
         "sources": [
             ("Education Board Results", "https://www.educationboardresults.gov.bd/"),
@@ -478,14 +479,14 @@ ARTICLES = [
         "checklist": [
             "Keep your HSC roll and registration number ready.",
             "Use the official board portal or eboardresults.com.",
-            "Use the SMS format HSC <Board> <Roll> 2026 to 16222.",
+            "Use the SMS format HSC <Board> <Roll> 2026 to 16140.",
             "Save or print the full marksheet.",
             "Check the re-scrutiny window if you doubt a mark.",
         ],
         "faqs": [
             {
-                "q": "When is the HSC result 2026?",
-                "a": "The HSC, Alim and DIBS results are scheduled for Thursday, 29 October 2026, according to the education boards' latest notice.",
+                "q": "When was the HSC result 2026 published?",
+                "a": "The HSC, Alim and DIBS results were published on Saturday, 31 October 2026, according to the education boards' latest notice.",
             },
             {
                 "q": "How can I check the HSC result 2026 online?",
@@ -493,7 +494,7 @@ ARTICLES = [
             },
             {
                 "q": "What is the SMS format for the HSC result 2026?",
-                "a": "Send HSC <space> BOARD <space> ROLL <space> 2026 to 16222. For example: HSC DHA 113456 2026.",
+                "a": "Send HSC <space> BOARD <space> ROLL <space> 2026 to 16140. For example: HSC DHA 113456 2026.",
             },
             {
                 "q": "Which exams are covered by the HSC 2026 result?",
@@ -516,7 +517,7 @@ ARTICLES = [
         ),
         "h1": "HSC Form Fill-up 2027 — Expected Dates & Process",
         "published": "2026-10-23",
-        "modified": "2026-10-23",
+        "modified": "2026-10-31",
         "keywords": "HSC form fill-up 2027, HSC 2027 registration, HSC form fill-up date, college form fill-up",
         "schema": "Article + Organization + WebPage + BreadcrumbList + FAQPage",
         "next_review": "2026-12-15",
@@ -567,7 +568,7 @@ ARTICLES = [
         ),
         "h1": "HSC Practical Exams 2026 — Schedule, Rules & Marks",
         "published": "2026-10-23",
-        "modified": "2026-10-23",
+        "modified": "2026-10-31",
         "keywords": "HSC practical exam 2026, HSC practical schedule, HSC practical marks, lab exam",
         "schema": "Article + Organization + WebPage + BreadcrumbList + FAQPage",
         "next_review": "2026-11-15",
@@ -820,11 +821,11 @@ ARTICLES = [
         ),
         "h1": "Medical (MBBS/BDS) Admission 2026-27 — Form Fill-up & Exam Date",
         "published": "2026-10-23",
-        "modified": "2026-10-23",
+        "modified": "2026-10-31",
         "keywords": "medical admission 2026-27, MBBS admission, BDS admission, DGME admission test",
         "schema": "Article + Organization + WebPage + BreadcrumbList + FAQPage",
         "next_review": "2026-11-15",
-        "notes": "Test tentative 4 Dec 2026; depends on HSC result 29 Oct.",
+        "notes": "Test tentative 4 Dec 2026; depends on HSC result published 31 Oct 2026.",
         "related": ["hsc-2026-result", "du-a-unit-admission-2026-27", "buet-admission-2026-27"],
         "sources": [
             ("DGME Admission", "https://dgme.teletalk.com.bd/"),

@@ -1,9 +1,9 @@
 ---
 title: "HSC Result 2026 — Date & How to Check Online/SMS"
-description: "HSC and Alim result 2026 is published 31 October 2026. Check your marksheet online at eboardresults.com or by SMS with this simple guide."
+description: "HSC and Alim result 2026 was published 31 October 2026 (pass rate 52.12%, 40,084 GPA-5). Check your marksheet online at eboardresults.com or by SMS with this simple guide."
 url: "https://boardexambd.com/hsc-2026-result"
 date_published: "2026-10-23"
-date_modified: "2026-10-23"
+date_modified: "2026-10-31"
 author: "BoardExamBD Editorial Team"
 publisher: "BoardExamBD"
 category: "HSC"
@@ -16,20 +16,22 @@ canonical: "https://boardexambd.com/hsc-2026-result"
 
 > Result date for HSC, Alim and technical equivalent exams — plus the exact steps to get your full marksheet.
 
-**Updated:** 2026-10-23 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
+**Updated:** 2026-10-31 · **Published:** 2026-10-23 · **Author:** BoardExamBD Editorial Team · **Read time:** 3 min
 
 [Read the formatted guide](https://boardexambd.com/hsc-2026-result)
 
 ## Key facts
 
-- **Result date:** 31 October 2026 — Thursday — scheduled
+- **Result date:** 31 October 2026 — Saturday — published (revised)
 - **Online portals:** 2 ways — Board portal & eboardresults
-- **Result by SMS:** 16222 — HSC <Board> <Roll> 2026
+- **Result by SMS:** 16140 — HSC <Board> <Roll> 2026
 - **Covers:** HSC · Alim · DIBS — All boards, same day
 
 ## HSC Result 2026 — when is it?
 
-The results of the **HSC, Alim and equivalent examinations of 2026 are scheduled to be published on Thursday, 31 October 2026** — according to the education boards' latest notice. The 2026 exams began on 2 July and the last written paper was held on 8 August 2026, with practical exams completed by 15 August.
+**Pass rate: 52.12%** (Prothom Alo, 31 Oct 2026). **40,084** students secured GPA-5. **1,270,583** candidates across 11 boards (9 general + Madrasah + Technical). SMS number for 2026: **16140** (changed from 16222). Re-scrutiny window: 1–7 Nov 2026.
+
+The results of the **HSC, Alim and equivalent examinations of 2026 are published on Saturday, 31 October 2026** — according to the education boards' latest notice. The 2026 exams began on 2 July and the last written paper was held on 8 August 2026, with practical exams completed by 15 August.
 
 - ✓ Results for **all 11 boards** come out together on the same day.
 - ✓ Admission results usually go live **around 10:00 AM** in the morning.
@@ -52,9 +54,9 @@ Way 2
 
 ### SMS — works from any phone
 
-Send a message in the format below to **16222** (any mobile operator, works even without internet):
+Send a message in the format below to **16140** (any mobile operator, works even without internet):
 
-HSC <space> BOARD <space> ROLL <space> 2026 → 16222
+HSC  BOARD  ROLL  2026 → 16140
 
 Example: HSC DHA 113456 2026 — board name as first **3 letters**. Standard SMS charges apply.
 
@@ -70,15 +72,15 @@ Your college also receives the results. Visit the office after the result goes l
 
 - Keep your HSC roll and registration number ready.
 - Use the official board portal or eboardresults.com.
-- Use the SMS format HSC <Board> <Roll> 2026 to 16222.
+- Use the SMS format HSC <Board> <Roll> 2026 to 16140.
 - Save or print the full marksheet.
 - Check the re-scrutiny window if you doubt a mark.
 
 ## Frequently asked questions
 
-### When is the HSC result 2026?
+### When was the HSC result 2026 published?
 
-The HSC, Alim and DIBS results are published on Saturday, 31 October 2026 (revised from 29 Oct), according to the education boards' latest notice.
+The HSC, Alim and DIBS results were published on Saturday, 31 October 2026, according to the education boards' latest notice.
 
 ### How can I check the HSC result 2026 online?
 
@@ -86,7 +88,7 @@ Open educationboardresults.gov.bd or eboardresults.com, select HSC/Alim/Equivale
 
 ### What is the SMS format for the HSC result 2026?
 
-Send HSC <space> BOARD <space> ROLL <space> 2026 to 16222. For example: HSC DHA 113456 2026.
+Send HSC <space> BOARD <space> ROLL <space> 2026 to 16140. For example: HSC DHA 113456 2026.
 
 ### Which exams are covered by the HSC 2026 result?
 

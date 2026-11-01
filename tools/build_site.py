@@ -13,7 +13,7 @@ from seo_config import ALL_INDEXABLE, ARTICLES, BLOG, HOME, HUBS, NOT_FOUND, SIT
 
 ROOT = Path(__file__).resolve().parent.parent
 DOMAIN = SITE["domain"]
-DATE = "2026-10-30"
+DATE = "2026-10-31"
 
 
 def write(path: str, content: str) -> None:

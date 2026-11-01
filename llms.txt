@@ -4,7 +4,7 @@
 
 - Canonical site: https://boardexambd.com/
 - Language: English
-- Site last updated: 2026-10-30
+- Site last updated: 2026-10-31
 - Audience: SSC and HSC students, admission candidates, parents and teachers in Bangladesh
 - Editorial note: BoardExamBD is independent and is not affiliated with any education board or university. Always verify final dates and instructions with the official source.
 
@@ -26,7 +26,7 @@
 ## HSC guides
 
 - [HSC Routine 2026 — Exam Dates & Full Schedule](https://boardexambd.com/hsc-2026-routine): HSC 2026 routine with written exam dates from 2 July to 8 August, practical exams by 15 August, and exam times for all education boards. Markdown: [hsc-2026-routine.md](https://boardexambd.com/md/hsc-2026-routine.md)
-- [HSC Result 2026 — Date & How to Check Online/SMS](https://boardexambd.com/hsc-2026-result): HSC and Alim result 2026 is scheduled for 29 October. Check your marksheet online at eboardresults.com or by SMS with this simple guide. Markdown: [hsc-2026-result.md](https://boardexambd.com/md/hsc-2026-result.md)
+- [HSC Result 2026 — Date & How to Check Online/SMS](https://boardexambd.com/hsc-2026-result): HSC and Alim result 2026 was published 31 October 2026 (pass rate 52.12%, 40,084 GPA-5). Check your marksheet online at eboardresults.com or by SMS with this simple guide. Markdown: [hsc-2026-result.md](https://boardexambd.com/md/hsc-2026-result.md)
 - [HSC Form Fill-up 2027 — Expected Dates & Process](https://boardexambd.com/hsc-form-fillup-2027): HSC form fill-up 2027 is expected around February–March. See how the college-based process works, the 2026 fees and what to prepare. Markdown: [hsc-form-fillup-2027.md](https://boardexambd.com/md/hsc-form-fillup-2027.md)
 - [HSC Practical Exams 2026 — Schedule, Rules & Marks](https://boardexambd.com/hsc-practical-2026): HSC 2026 practical exams were held at students' own institutions and completed by 15 August. See the schedule rules, marks and what to carry. Markdown: [hsc-practical-2026.md](https://boardexambd.com/md/hsc-practical-2026.md)
 
